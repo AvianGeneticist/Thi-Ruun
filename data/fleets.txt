@@ -1,0 +1,57 @@
+fleet "Kelaar'Ruun (Small)"
+	government Kelaar-Ruun
+	names civilian
+	cargo 1
+	commodities Metal Equipment Industrial Electronics "Heavy Metals"
+	personality
+		disables
+	variant 3
+		"Kelaar Wavebreak" 2
+	variant
+		"Kelaar Wavebreak" 3
+
+fleet "Sakaar'Ruun (Small)"
+	government Sakaar-Ruun
+	names civilian
+	cargo 1
+	commodities Metal Plastic "Heavy Metals" Electronics
+	personality
+		disables
+	variant 3
+		"Sakaar Shear" 2
+	variant
+		"Sakaar Shear" 3
+
+fleet "Small Thi'Ruun Transport"
+	government Thi-Ruun
+	names civilian
+	fighters civilian
+	commodities Metal Medical Electronics Industrial "Heavy Metals" Equipment
+	personality
+		disables
+	variant 6
+		Tarlec-Pollo
+	variant 8
+		Tarlec-Pollo 2
+	variant 2
+		Tarlec-Pollo 3
+
+fleet "Large Western Thi Traders"
+	government Thi-Ruun
+	names civilian
+	fighters civilian
+	cargo 5
+	commodities Metal Plastic Equipment Medical Industrial Electronics "Heavy Metals" "Luxury Goods"
+	personality
+		disables
+	variant 6
+		Tuell-Kalore
+	variant 8
+		Tuell-Kalore
+		Tarlec-Pollo
+	variant 6
+		Tuell-Kalore
+		Tarlec-Pollo 2
+	variant 4
+		Tuell-Kalore 2
+

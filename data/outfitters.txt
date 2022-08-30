@@ -1,0 +1,10 @@
+outfitter "Sakaar Ammo"
+	"Gravity Torpedo"
+	"Pencil Rocket"
+	"Tempest Missile"
+
+outfitter "Kelaar Ammo"
+	"Eraser Torpedo"
+	"Pencil Rocket"
+	"Suppressor Pulse Missile"
+
