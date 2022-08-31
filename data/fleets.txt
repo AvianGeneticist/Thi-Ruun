@@ -54,4 +54,11 @@ fleet "Large Western Thi Traders"
 		Tarlec-Pollo 2
 	variant 4
 		Tuell-Kalore 2
+	variant 8
+		Sakaar-Malue-Kalore
+	variant 3
+		Sakaar-Malue-Kalore 2
+	variant 6
+		Sakaar-Malue-Kalore
+		Tarlec-Pollo 2
 

@@ -844,8 +844,8 @@ system Polaq-D-111
 		distance 165.41579
 		period 612
 		offset 135
-	object
-		sprite planet/gas14-b
+	object Okkilia-Mayiro
+		sprite planet/rock4
 		distance 1078.4255
 		period 430.34056
 	object
@@ -873,9 +873,9 @@ system Polaq-D-111
 		distance 8684.665
 		period 612
 		offset 315
-		object
+		object Oggilia-Usaros
 			sprite planet/desert3
-			distance 1381.5563
+			distance 1381.6136
 			period -152
 		object
 			sprite planet/rock9-b
@@ -1001,9 +1001,91 @@ system Tarmi-Bi-037
 system Gnoki-BiD-041
 	pos -175.72222 -909.61116
 	government Thi-Ruun
+	habitable 820
 	link Gnoki-D-051
 	link Tarmi-Bi-037
 	link Torr-Bi-003
+	trade Clothing 275
+	trade Electronics 823
+	trade Equipment 729
+	trade Food 92
+	trade "Heavy Metals" 713
+	trade Industrial 650
+	trade "Luxury Goods" 952
+	trade Medical 534
+	trade Metal 319
+	trade Plastic 503
+	object
+		sprite star/a8
+		period 10
+	object
+		sprite planet/rock3
+		distance 487
+		period 111.94951
+	object
+		sprite planet/gas17
+		distance 1651.1522
+		period 470.33538
+		object
+			sprite planet/desert4-b
+			distance 228
+			period 162.85988
+		object
+			sprite planet/lava0-b
+			distance 372
+			period 187.77252
+	object
+		sprite planet/dust5
+		distance 2156
+		period 1042.8021
+	object
+		sprite planet/gas15-b
+		distance 2504
+		period 1305.2096
+	object
+		sprite planet/asteroidbeltsmall2
+		distance 910
+		period 65
+	object
+		sprite planet/asteroidbeltsmall
+		distance 895
+		period 65
+		offset 50
+	object
+		sprite planet/asteroidbeltsmall2
+		distance 920
+		period 65
+		offset 100
+	object
+		sprite planet/asteroidbeltsmallcolony
+		distance 890
+		period 65
+		offset 310
+	object
+		sprite planet/asteroidbeltsmall2
+		distance 905
+		period 65
+		offset 140
+	object
+		sprite planet/asteroidbeltsmall
+		distance 897
+		period 65
+		offset 265
+	object
+		sprite planet/asteroidbeltsmallcolony
+		distance 900
+		period 65
+		offset 185
+		object Gnoki-Ilysa
+			sprite planet/asteroidcolonyspin1
+			distance 12
+			period 5.5
+			offset 45
+	object
+		sprite planet/asteroidbeltsmallcolony
+		distance 905
+		period 65
+		offset 220
 
 system Polaq-E-91
 	pos 247.97222 -1021.1945
@@ -1603,8 +1685,8 @@ planet Thir-Kola
 	landscape land/mfield3
 	description "A very well-developed cloud city world, Thir-Kola is notable for its noticeably higher population of Breeders than other Thi'Ruun planets. This comes naturally in such an urban setting; minerals from Thir-Pola are constantly in demand here, as the population of Thi'Ruun is continually increased within the many brood dens the Thi'Ruun use as nurseries."
 	spaceport "Like other Thi'Ruun cloud cities, the spaceport appears spartan from a distance, but is in fact festooned with technology to keep everything running smoothly. Despite the position in the most turbulent layers of Thir-Kola's atmosphere, the wind is dampened to a mere breeze, gently blowing across the spaceport."
+	shipyard "Kalore-Illoca Advanced"
 	shipyard "Thi Basics"
-	shipyard "Thi West Advanced"
 
 planet Supplana
 	description "In contrast to other Thi'Ruun core worlds, which tend to either provide mass housing or a key strategic point for mineral harvesting, Supplana has a sole primary export: Energy. By collecting geothermal energy from its geologically active moons, Supplana is able to account for the energy needs of billions of Thi'Ruun, both on- and off-world."
@@ -1889,7 +1971,7 @@ planet Dara-Weqaal
 planet Maba-Racu
 	attributes "cloud city" thi "thi urban"
 	landscape land/city8
-	description "Maba-Racu is home to a relatively small cloud city, built in a somewhat important junction system in Thi'Ruun space. Despite the fact that it is relatively non-populous for a Thi'Ruun world, it still houses over a billion permanent residents, plus many more travellers who have stopped here for one reason or another."
+	description "Maba-Racu is home to a relatively small cloud city, built in a somewhat important junction system in Thi'Ruun space. Despite the fact that it is relatively non-populous for a Thi'Ruun world, it still houses over ten billion permanent residents, plus many more travellers who have stopped here for one reason or another."
 	spaceport "Maba-Racu's spaceport is of decent size, but nothing particularly impressive, as to be expected of a planet of its status."
 
 planet Tarn-hol
@@ -1943,6 +2025,7 @@ planet Laki-Mara-Nalj
 	spaceport "The spaceport is less than impressive on the surface, but only because the thousands of ships ready to be sold here are high above the surface in low orbit, saving space here for new ships that need outfitting. It is rare that ships actually touch down; instead, shuttles are launched from the surface to commune with travelling merchants."
 	shipyard "kelaar basics"
 	outfitter "Kelaar Ammo"
+	outfitter "thi-ruun basics"
 
 planet Laki-Mara
 	landscape land/nasa29
@@ -1950,4 +2033,24 @@ planet Laki-Mara
 	spaceport "The spaceport is bustling with activity; miners and traders bringing minerals and energy for constructing new trips. Every landing pad seems to be manned by thousands of Thi'Ruun, efficiently loading and unloaded thousands of tons of cargo as if it were nothing."
 	shipyard "kelaar basics"
 	outfitter "Kelaar Ammo"
+	outfitter "thi-ruun basics"
+
+planet Oggilia-Usaros
+	landscape land/desert6
+	description "Oggilia-Usaros is a small desert world, but it sees a spectacular amount of solar energy thanks to the two stars it orbits. This is one of the few planets humans know of that reliably has more daylit surface than night time surface, and the Thi-Ruun have taken advantage of it by setting up enormous solar farms over nearly seven eighths of the surface."
+	spaceport "The spaceport is clearly designed to make the most of the energy supply here; the roads and rooves are tiled almost entirely with solar panels, and the Thi-Ruun's battery freighters make up a great majority of the traffic."
+
+planet Okkilia-Mayiro
+	landscape land/city4
+	description "Okkilia-Mayoro is an exceedingly populous world, thanks both in part to the natural resources of its host system and the fact that it is the capital system of Kalore-Illoca, which single-handedly employs trillions of Thi-Ruun drones on this system alone."
+	spaceport "The spaceport is built on top of a gargantuan tiered city that completely obscures the surface below. Artifical metal turf stretches for thousands of miles in any direction, and more impressively,all the rooftop space seems to be being used by Thi-Ruun trade ships."
+	shipyard "Kalore-Illoca Advanced"
+	shipyard "Thi Basics"
+	outfitter "thi-ruun basics"
+	outfitter "thi-ruun intermediate"
+
+planet Gnoki-Ilysa
+	landscape "land/asteroid landing 1"
+	description "The capital of one of the Thi-Ruun's belt cities; however, this one has yet to be fully developed. because of that fact, only about 135 billion Thi-Ruun live here, and most of those are actively working on the settlement."
+	spaceport "The spaceport is still under construction; instead of the more refined energy shields, the collision-prevention measures here are large, gatling gun-style missile turrets, dilligently scanning for dangerously-sized asteroids."
 

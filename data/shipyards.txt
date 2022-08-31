@@ -8,6 +8,7 @@ shipyard "kelaar basics"
 shipyard "Thi Basics"
 	Tarlec-Pollo
 
-shipyard "Thi West Advanced"
+shipyard "Kalore-Illoca Advanced"
+	Sakaar-Malue-Kalore
 	Tuell-Kalore
 
