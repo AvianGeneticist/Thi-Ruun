@@ -7,8 +7,15 @@ shipyard "kelaar basics"
 
 shipyard "Thi Basics"
 	Tarlec-Pollo
+	Uyiti-Kalore
 
 shipyard "Kalore-Illoca Advanced"
 	Sakaar-Malue-Kalore
 	Tuell-Kalore
+
+shipyard "Yurlia Basics"
+	Yurlia-4
+
+shipyard "Thi Ancestral"
+	"Uratal Jaqael"
 

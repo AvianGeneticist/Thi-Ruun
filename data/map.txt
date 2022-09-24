@@ -305,7 +305,39 @@ system Torr-AC-009
 system Tarmi-Bii-041
 	pos -26.527772 -840.3333
 	government Thi-Ruun
+	habitable 3276.8
 	link Torr-Bii-002
+	object
+		sprite star/o0
+		period 10
+	object
+		sprite planet/gas13-b
+		distance 857
+		period 392.00469
+	object
+		sprite planet/uranus-b
+		distance 2088
+		period 1490.7876
+		object
+			sprite planet/rock4
+			distance 579.48564
+			period 337.39296
+		object Raq-Bevlo-Gnoki
+			sprite planet/ice8
+			distance 288.0281
+			period 178.01611
+	object
+		sprite planet/gas4
+		distance 3273
+		period 2925.7623
+		object
+			sprite planet/dust4
+			distance 265
+			period 134.16752
+	object
+		sprite planet/rock17-b
+		distance 5427
+		period 6246.831
 
 system Yjkil-AB-019
 	pos -80.805556 -1117.5556
@@ -984,6 +1016,14 @@ planet Praq-Ern-Kellia
 	description "Ern Kellia is a massive city and shipyard, built as a central hub for all Thi'Ruun Commerce in their region of space. Millenia of being stuck in a single star System forced the Thi'Ruun to make effective use of all possible space, and their great cloud cities are a shining display of this."
 	spaceport "The spaceport here puts even the greatest shipyards humanity has built to shame. Though not quite a complete ring around the planet yet."
 	government Thi-Ruun
+	shipyard "Kalore-Illoca Advanced"
+	shipyard "Thi Ancestral"
+	shipyard "Thi Basics"
+	shipyard "Yurlia Basics"
+	outfitter "Kelaar Ammo"
+	outfitter "Sakaar Ammo"
+	outfitter "thi-ruun basics"
+	outfitter "thi-ruun intermediate"
 
 system Torr-Bi-003
 	pos -156.72222 -962.94449
@@ -2053,4 +2093,8 @@ planet Gnoki-Ilysa
 	landscape "land/asteroid landing 1"
 	description "The capital of one of the Thi-Ruun's belt cities; however, this one has yet to be fully developed. because of that fact, only about 135 billion Thi-Ruun live here, and most of those are actively working on the settlement."
 	spaceport "The spaceport is still under construction; instead of the more refined energy shields, the collision-prevention measures here are large, gatling gun-style missile turrets, dilligently scanning for dangerously-sized asteroids."
+
+planet Raq-Bevlo-Gnoki
+	description "Though they do not need to drink water to live, the Thi-Ruun still have many uses for water. Much of the water in this region of space is mined from Raq-Bevlo-Gnoki, a planet composed of roughly 65% water by volume. Ice mines line the surface; thick canals already carved through the ice form paths for legions of Thi-Ruun workers."
+	spaceport "The spaceport is an orbiting vessel on top of a space elevator that connects to the surface of the planet; all trade thus technically happens off-world, with ships coming and going to the elevator's apex, removing any risk that a ship's engines may melt the ice."
 
