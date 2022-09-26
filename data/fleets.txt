@@ -80,3 +80,16 @@ fleet "Small Thi Ancestral"
 		"Uratal Jaqael" 3
 		"Uratal Kelai" 24
 
+fleet "Small Thi Traders"
+	government Thi-Ruun
+	names civilian
+	fighters civilian
+	personality
+		disables
+	variant 6
+		Yurlia-4
+		Uyiti-Kalore 4
+	variant 3
+		Yurlia-4 2
+		Uyiti-Kalore 8
+

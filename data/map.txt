@@ -19,10 +19,73 @@ system Tarmi-E-078
 system Polaq-A-094
 	pos -110 -1245.9722
 	government Thi-Ruun
+	habitable 1081.25
+	belt 1929
 	link Ott-A-999
 	link Polaq-A-096
 	link Torr-ABiiE-006
 	link Yjkil-A-011
+	asteroids "small rock" 1 1.7808
+	asteroids "medium rock" 23 2.6544
+	asteroids "large rock" 6 2.2176
+	asteroids "small metal" 5 2.0832
+	asteroids "medium metal" 4 1.7136
+	asteroids "large metal" 4 1.9488
+	minables tungsten 33 2.5088979
+	minables silver 11 3.1584813
+	minables aluminum 70 2.3841591
+	trade Clothing 169
+	trade Electronics 790
+	trade Equipment 681
+	trade Food 174
+	trade "Heavy Metals" 1196
+	trade Industrial 858
+	trade "Luxury Goods" 1055
+	trade Medical 491
+	trade Metal 392
+	trade Plastic 532
+	fleet "Small Thi'Ruun Transport" 275
+	fleet "Small Thi Ancestral" 450
+	fleet "Small Thi Traders" 300
+	object
+		sprite star/k0
+		period 10
+	object
+		sprite planet/lava6-b
+		distance 239
+		period 923.71258
+	object
+		sprite planet/ocean9-b
+		distance 720
+		period 4829.9068
+	object Ural-Kellia
+		sprite planet/gas0-hot
+		distance 2022.7668
+		period 18948.873
+		object
+			sprite planet/rock3
+			distance 233
+			period 134.44186
+		object
+			sprite planet/io
+			distance 434
+			period 123.3961
+		object
+			sprite planet/luna
+			distance 637
+			period 607.72873
+	object
+		sprite planet/gas3
+		distance 4217
+		period 68461.342
+	object
+		sprite planet/gas8-b
+		distance 6108.2621
+		period 162379.76
+	object
+		sprite planet/io-b
+		distance 9284.6081
+		period 332461.29
 
 system Gnoki-E-041
 	pos 231.47222 -1208.1667
@@ -74,9 +137,10 @@ system Ott-A-999
 	trade Medical 467
 	trade Metal 356
 	trade Plastic 498
-	fleet "Small Thi'Ruun Transport" 400
+	fleet "Small Thi'Ruun Transport" 200
 	fleet "Large Western Thi Traders" 900
 	fleet "Small Thi Ancestral" 600
+	fleet "Small Thi Traders" 300
 	object
 		sprite star/f3
 		distance 150
@@ -204,12 +268,13 @@ system Polaq-C-093
 	trade "Heavy Metals" 942
 	trade Industrial 659
 	trade "Luxury Goods" 1155
-	trade Medical 898
+	trade Medical 598
 	trade Metal 307
 	trade Plastic 536
 	fleet "Small Thi'Ruun Transport" 300
 	fleet "Large Western Thi Traders" 1200
 	fleet "Small Thi Ancestral" 725
+	fleet "Small Thi Traders" 300
 	object
 		sprite star/a8
 		period 10
@@ -271,6 +336,7 @@ system Torr-AC-009
 	fleet "Small Thi'Ruun Transport" 300
 	fleet "Large Western Thi Traders" 1000
 	fleet "Small Thi Ancestral" 725
+	fleet "Small Thi Traders" 325
 	object
 		sprite star/o8
 		period 10
@@ -389,6 +455,7 @@ system Yjkil-A-011
 	fleet "Small Thi'Ruun Transport" 300
 	fleet "Large Western Thi Traders" 1500
 	fleet "Small Thi Ancestral" 750
+	fleet "Small Thi Traders" 300
 	object
 		sprite star/g5
 		period 10
@@ -457,13 +524,14 @@ system Polaq-C-100
 	trade "Heavy Metals" 862
 	trade Industrial 621
 	trade "Luxury Goods" 1083
-	trade Medical 912
+	trade Medical 812
 	trade Metal 322
 	trade Plastic 524
 	fleet "Sakaar'Ruun (Small)" 210
 	fleet "Small Thi'Ruun Transport" 600
 	fleet "Large Western Thi Traders" 1800
 	fleet "Small Thi Ancestral" 750
+	fleet "Small Thi Traders" 400
 	object
 		sprite star/o8
 		period 10
@@ -533,6 +601,7 @@ system Polaq-A-102
 	fleet "Small Thi'Ruun Transport" 330
 	fleet "Large Western Thi Traders" 3060
 	fleet "Small Thi Ancestral" 700
+	fleet "Small Thi Traders" 340
 	object
 		sprite star/f3
 		period 10
@@ -676,6 +745,7 @@ system Polaq-D-091
 	fleet "Small Thi'Ruun Transport" 600
 	fleet "Large Western Thi Traders" 800
 	fleet "Small Thi Ancestral" 800
+	fleet "Small Thi Traders" 700
 	object
 		sprite star/f5-old
 		period 10
@@ -786,6 +856,7 @@ system Gnoki-F-046
 	fleet "Small Thi'Ruun Transport" 450
 	fleet "Large Western Thi Traders" 2400
 	fleet "Small Thi Ancestral" 900
+	fleet "Small Thi Traders" 450
 	object
 		sprite star/b0
 		distance 131.5
@@ -882,6 +953,7 @@ system Polaq-D-111
 	fleet "Small Thi'Ruun Transport" 400
 	fleet "Large Western Thi Traders" 900
 	fleet "Small Thi Ancestral" 750
+	fleet "Small Thi Traders" 425
 	object
 		sprite star/o0
 		distance 165.41579
@@ -987,6 +1059,7 @@ system Irnell-D-022
 	fleet "Sakaar'Ruun (Small)" 300
 	fleet "Small Thi'Ruun Transport" 6000
 	fleet "Large Western Thi Traders" 5500
+	fleet "Small Thi Traders" 4500
 	object
 		sprite star/o0
 		period 10
@@ -1033,6 +1106,7 @@ planet Praq-Ern-Kellia
 	shipyard "Yurlia Basics"
 	outfitter "Kelaar Ammo"
 	outfitter "Sakaar Ammo"
+	outfitter "thi-ruun advanced"
 	outfitter "thi-ruun basics"
 	outfitter "thi-ruun intermediate"
 
@@ -1426,6 +1500,7 @@ system Yjkil-G-042
 	fleet "Small Thi'Ruun Transport" 1500
 	fleet "Large Western Thi Traders" 9000
 	fleet "Small Thi Ancestral" 12000
+	fleet "Small Thi Traders" 1200
 	object
 		sprite star/g-giant
 		period 10
@@ -1553,6 +1628,7 @@ system Ezrata-F-002
 	fleet "Small Thi'Ruun Transport" 900
 	fleet "Large Western Thi Traders" 2400
 	fleet "Small Thi Ancestral" 1000
+	fleet "Small Thi Traders" 800
 	object
 		sprite star/k3
 		distance 187.69954
@@ -1696,6 +1772,7 @@ system Ezrata-G-008
 	trade Metal 221
 	trade Plastic 503
 	fleet "Small Thi'Ruun Transport" 6000
+	fleet "Small Thi Traders" 8000
 	object
 		sprite star/o5
 		period 10
@@ -1772,6 +1849,7 @@ system Nhili-F-101
 	fleet "Small Thi'Ruun Transport" 600
 	fleet "Large Western Thi Traders" 3000
 	fleet "Small Thi Ancestral" 1200
+	fleet "Small Thi Traders" 750
 	object
 		sprite star/m-supergiant
 		period 10
@@ -2130,4 +2208,14 @@ system Yjkil-E-076
 	link Polaq-E-91
 	link Tarmi-E-078
 	link Torr-BiiE-008
+
+planet Ural-Kellia
+	attributes "thi ancestral"
+	description "Ural-Kellia is the headquarters of Kelassa Uratal, a legacy ship group that produces replica ships from back when the Kiel-Ruun were still alive and serving as the rulers over the Thi-Ruun. Many of the Thi-Ruun here were created before the Thi-Ruun home system was in a stable orbit of the Milky Way, and thus are of a different model than modern Thi-Ruun."
+	spaceport "The spaceport is almost entirely giant docks sunken partially into the clouds. The rounded hulls of the Kiel-Ruun ships in the shipyards look completely alien compared to the Thi-Ruun's sharp, angular ships, and yet the two ship types comingle just the same."
+	government Talia-Ruun
+	shipyard "Thi Ancestral"
+	outfitter "thi-ruun basics"
+	outfitter "thi-ruun intermediate"
+	security 0.9
 
