@@ -20,3 +20,7 @@ shipyard "Thi Ancestral"
 	"Uratal Jaqael"
 	"Uratal Kelai"
 
+shipyard "Yurlia Advanced"
+	Yurlia-6
+	Yurlia-8
+

@@ -1103,6 +1103,7 @@ planet Praq-Ern-Kellia
 	shipyard "Kalore-Illoca Advanced"
 	shipyard "Thi Ancestral"
 	shipyard "Thi Basics"
+	shipyard "Yurlia Advanced"
 	shipyard "Yurlia Basics"
 	outfitter "Kelaar Ammo"
 	outfitter "Sakaar Ammo"

@@ -61,6 +61,20 @@ fleet "Large Western Thi Traders"
 	variant 6
 		Sakaar-Malue-Kalore
 		Tarlec-Pollo 2
+	variant 4
+		Yurlia-6
+		Uyiti-Kalore 6
+		Tuell-Kalore
+	variant 2
+		Yurlia-8
+		Uyiti-Kalore 8
+	variant
+		Yurlia-8
+		Uyiti-Kalore 16
+		Sakaar-Malue-Kalore
+	variant 2
+		Sakaar-Malue-Kalore
+		Uyiti-Kalore 8
 
 fleet "Small Thi Ancestral"
 	government Thi-Ruun
@@ -91,5 +105,11 @@ fleet "Small Thi Traders"
 		Uyiti-Kalore 4
 	variant 3
 		Yurlia-4 2
+		Uyiti-Kalore 8
+	variant 4
+		Yurlia-6
+		Uyiti-Kalore 6
+	variant 2
+		Yurlia-8
 		Uyiti-Kalore 8
 
