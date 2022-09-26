@@ -12,9 +12,9 @@ system Torr-ABiiE-006
 	link Yjkil-E-041
 
 system Tarmi-E-078
-	pos 196 -990.47222
+	pos 239.11111 -944.25
 	government Thi-Ruun
-	link Polaq-E-91
+	link Yjkil-E-076
 
 system Polaq-A-094
 	pos -110 -1245.9722
@@ -35,6 +35,7 @@ system Gnoki-E-041
 system Polaq-Bii-082
 	pos 55.027781 -932.16666
 	government Kelaar-Ruun
+	link Gnoki-Bii-041
 	link Irnell-Bii-029
 	link Torr-Bii-002
 	link Torr-Bii-005
@@ -73,8 +74,9 @@ system Ott-A-999
 	trade Medical 467
 	trade Metal 356
 	trade Plastic 498
-	fleet "Small Thi'Ruun Transport" 800
-	fleet "Large Western Thi Traders" 1800
+	fleet "Small Thi'Ruun Transport" 400
+	fleet "Large Western Thi Traders" 900
+	fleet "Small Thi Ancestral" 600
 	object
 		sprite star/f3
 		distance 150
@@ -205,8 +207,9 @@ system Polaq-C-093
 	trade Medical 898
 	trade Metal 307
 	trade Plastic 536
-	fleet "Small Thi'Ruun Transport" 600
-	fleet "Large Western Thi Traders" 2400
+	fleet "Small Thi'Ruun Transport" 300
+	fleet "Large Western Thi Traders" 1200
+	fleet "Small Thi Ancestral" 725
 	object
 		sprite star/a8
 		period 10
@@ -265,7 +268,9 @@ system Torr-AC-009
 	trade Medical 618
 	trade Metal 332
 	trade Plastic 512
-	fleet "Small Thi'Ruun Transport" 600
+	fleet "Small Thi'Ruun Transport" 300
+	fleet "Large Western Thi Traders" 1000
+	fleet "Small Thi Ancestral" 725
 	object
 		sprite star/o8
 		period 10
@@ -354,7 +359,7 @@ system Gnoki-C-052
 	link Torr-C-006
 	link Torr-CD-010
 	link Yjkil-C-044
-	fleet "Sakaar'Ruun (Small)" 850
+	fleet "Sakaar'Ruun (Small)" 425
 
 system Gnoki-Bii-039
 	pos 12.666667 -1032.6945
@@ -381,8 +386,9 @@ system Yjkil-A-011
 	trade Medical 475
 	trade Metal 398
 	trade Plastic 505
-	fleet "Small Thi'Ruun Transport" 600
-	fleet "Large Western Thi Traders" 3000
+	fleet "Small Thi'Ruun Transport" 300
+	fleet "Large Western Thi Traders" 1500
+	fleet "Small Thi Ancestral" 750
 	object
 		sprite star/g5
 		period 10
@@ -454,9 +460,10 @@ system Polaq-C-100
 	trade Medical 912
 	trade Metal 322
 	trade Plastic 524
-	fleet "Sakaar'Ruun (Small)" 420
-	fleet "Small Thi'Ruun Transport" 1200
-	fleet "Large Western Thi Traders" 3600
+	fleet "Sakaar'Ruun (Small)" 210
+	fleet "Small Thi'Ruun Transport" 600
+	fleet "Large Western Thi Traders" 1800
+	fleet "Small Thi Ancestral" 750
 	object
 		sprite star/o8
 		period 10
@@ -497,7 +504,7 @@ system Yjkil-C-044
 	link Gnoki-CF-044
 	link Polaq-C-093
 	link Polaq-C-100
-	fleet "Sakaar'Ruun (Small)" 1350
+	fleet "Sakaar'Ruun (Small)" 675
 
 system Polaq-A-102
 	pos -184.75 -1200.6667
@@ -523,8 +530,9 @@ system Polaq-A-102
 	trade Medical 489
 	trade Metal 341
 	trade Plastic 529
-	fleet "Small Thi'Ruun Transport" 660
-	fleet "Large Western Thi Traders" 6120
+	fleet "Small Thi'Ruun Transport" 330
+	fleet "Large Western Thi Traders" 3060
+	fleet "Small Thi Ancestral" 700
 	object
 		sprite star/f3
 		period 10
@@ -532,7 +540,7 @@ system Polaq-A-102
 		sprite planet/rock3
 		distance 841.69418
 		period 93.501473
-	object Supplana
+	object Jerik-Supplana
 		sprite planet/gas2
 		distance 4769.303
 		period 194.24723
@@ -664,9 +672,10 @@ system Polaq-D-091
 	trade Medical 300
 	trade Metal 214
 	trade Plastic 326
-	fleet "Kelaar'Ruun (Small)" 300
-	fleet "Small Thi'Ruun Transport" 1200
-	fleet "Large Western Thi Traders" 3000
+	fleet "Kelaar'Ruun (Small)" 150
+	fleet "Small Thi'Ruun Transport" 600
+	fleet "Large Western Thi Traders" 800
+	fleet "Small Thi Ancestral" 800
 	object
 		sprite star/f5-old
 		period 10
@@ -718,14 +727,14 @@ system Yjkil-D-053
 	link Polaq-D-091
 	link Polaq-D-111
 	link Torr-D-012
-	fleet "Kelaar'Ruun (Small)" 1200
+	fleet "Kelaar'Ruun (Small)" 600
 
 system Gnoki-D-042
 	pos -322.02778 -976.22217
 	government Kelaar-Ruun
 	link Torr-D-012
 	link Yjkil-D-053
-	fleet "Kelaar'Ruun (Small)" 600
+	fleet "Kelaar'Ruun (Small)" 300
 
 system Torr-CD-010
 	pos -442.58333 -1088.2777
@@ -735,7 +744,7 @@ system Torr-CD-010
 	link Polaq-C-100
 	link Torr-C-006
 	link Torr-CD-011
-	fleet "Sakaar'Ruun (Small)" 900
+	fleet "Sakaar'Ruun (Small)" 450
 
 system Torr-D-012
 	pos -256.69445 -1030.0833
@@ -744,7 +753,7 @@ system Torr-D-012
 	link Gnoki-D-051
 	link Polaq-D-091
 	link Yjkil-D-053
-	fleet "Kelaar'Ruun (Small)" 1800
+	fleet "Kelaar'Ruun (Small)" 900
 
 system Gnoki-F-046
 	pos -596.44444 -1188.1944
@@ -774,8 +783,9 @@ system Gnoki-F-046
 	trade Medical 395
 	trade Metal 327
 	trade Plastic 378
-	fleet "Small Thi'Ruun Transport" 900
-	fleet "Large Western Thi Traders" 4800
+	fleet "Small Thi'Ruun Transport" 450
+	fleet "Large Western Thi Traders" 2400
+	fleet "Small Thi Ancestral" 900
 	object
 		sprite star/b0
 		distance 131.5
@@ -869,8 +879,9 @@ system Polaq-D-111
 	trade Medical 540
 	trade Metal 227
 	trade Plastic 472
-	fleet "Small Thi'Ruun Transport" 800
-	fleet "Large Western Thi Traders" 1800
+	fleet "Small Thi'Ruun Transport" 400
+	fleet "Large Western Thi Traders" 900
+	fleet "Small Thi Ancestral" 750
 	object
 		sprite star/o0
 		distance 165.41579
@@ -972,10 +983,10 @@ system Irnell-D-022
 	trade Medical 321
 	trade Metal 209
 	trade Plastic 295
-	fleet "Kelaar'Ruun (Small)" 600
-	fleet "Sakaar'Ruun (Small)" 600
-	fleet "Small Thi'Ruun Transport" 12000
-	fleet "Large Western Thi Traders" 11000
+	fleet "Kelaar'Ruun (Small)" 300
+	fleet "Sakaar'Ruun (Small)" 300
+	fleet "Small Thi'Ruun Transport" 6000
+	fleet "Large Western Thi Traders" 5500
 	object
 		sprite star/o0
 		period 10
@@ -1131,8 +1142,8 @@ system Polaq-E-91
 	pos 247.97222 -1021.1945
 	government Thi-Ruun
 	link Polaq-E-104
-	link Tarmi-E-078
 	link Yjkil-E-033
+	link Yjkil-E-076
 
 system Yjkil-E-033
 	pos 313.75 -1068.75
@@ -1412,8 +1423,9 @@ system Yjkil-G-042
 	trade Medical 407
 	trade Metal 194
 	trade Plastic 456
-	fleet "Small Thi'Ruun Transport" 3000
-	fleet "Large Western Thi Traders" 18000
+	fleet "Small Thi'Ruun Transport" 1500
+	fleet "Large Western Thi Traders" 9000
+	fleet "Small Thi Ancestral" 12000
 	object
 		sprite star/g-giant
 		period 10
@@ -1538,8 +1550,9 @@ system Ezrata-F-002
 	trade Medical 446
 	trade Metal 312
 	trade Plastic 409
-	fleet "Small Thi'Ruun Transport" 1800
-	fleet "Large Western Thi Traders" 4800
+	fleet "Small Thi'Ruun Transport" 900
+	fleet "Large Western Thi Traders" 2400
+	fleet "Small Thi Ancestral" 1000
 	object
 		sprite star/k3
 		distance 187.69954
@@ -1682,7 +1695,7 @@ system Ezrata-G-008
 	trade Medical 534
 	trade Metal 221
 	trade Plastic 503
-	fleet "Small Thi'Ruun Transport" 12000
+	fleet "Small Thi'Ruun Transport" 6000
 	object
 		sprite star/o5
 		period 10
@@ -1728,7 +1741,7 @@ planet Thir-Kola
 	shipyard "Kalore-Illoca Advanced"
 	shipyard "Thi Basics"
 
-planet Supplana
+planet Jerik-Supplana
 	description "In contrast to other Thi'Ruun core worlds, which tend to either provide mass housing or a key strategic point for mineral harvesting, Supplana has a sole primary export: Energy. By collecting geothermal energy from its geologically active moons, Supplana is able to account for the energy needs of billions of Thi'Ruun, both on- and off-world."
 	spaceport `Massive ships can be seen loading batteries bigger than some shuttles into their cargo hold; these "power freighters" are supplying Thi'Ruun all across their space with the electrical energy that is crucial to their operation.`
 
@@ -1756,8 +1769,9 @@ system Nhili-F-101
 	trade Medical 490
 	trade Metal 301
 	trade Plastic 493
-	fleet "Small Thi'Ruun Transport" 1200
-	fleet "Large Western Thi Traders" 6000
+	fleet "Small Thi'Ruun Transport" 600
+	fleet "Large Western Thi Traders" 3000
+	fleet "Small Thi Ancestral" 1200
 	object
 		sprite star/m-supergiant
 		period 10
@@ -2097,4 +2111,23 @@ planet Gnoki-Ilysa
 planet Raq-Bevlo-Gnoki
 	description "Though they do not need to drink water to live, the Thi-Ruun still have many uses for water. Much of the water in this region of space is mined from Raq-Bevlo-Gnoki, a planet composed of roughly 65% water by volume. Ice mines line the surface; thick canals already carved through the ice form paths for legions of Thi-Ruun workers."
 	spaceport "The spaceport is an orbiting vessel on top of a space elevator that connects to the surface of the planet; all trade thus technically happens off-world, with ships coming and going to the elevator's apex, removing any risk that a ship's engines may melt the ice."
+
+system Gnoki-Bii-041
+	pos 121.66666 -908.55562
+	government Thi-Ruun
+	link Polaq-Bii-082
+	link Torr-BiiE-008
+
+system Torr-BiiE-008
+	pos 170.11111 -942.3334
+	government Thi-Ruun
+	link Gnoki-Bii-041
+	link Yjkil-E-076
+
+system Yjkil-E-076
+	pos 195.88889 -991.22229
+	government Thi-Ruun
+	link Polaq-E-91
+	link Tarmi-E-078
+	link Torr-BiiE-008
 

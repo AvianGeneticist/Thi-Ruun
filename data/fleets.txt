@@ -62,3 +62,21 @@ fleet "Large Western Thi Traders"
 		Sakaar-Malue-Kalore
 		Tarlec-Pollo 2
 
+fleet "Small Thi Ancestral"
+	government Thi-Ruun
+	names civilian
+	fighters civilian
+	cargo 4
+	personality
+		confusion 4
+		disables
+	variant 8
+		"Uratal Jaqael"
+		"Uratal Kelai" 8
+	variant 3
+		"Uratal Jaqael" 2
+		"Uratal Kelai" 16
+	variant
+		"Uratal Jaqael" 3
+		"Uratal Kelai" 24
+

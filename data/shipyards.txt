@@ -18,4 +18,5 @@ shipyard "Yurlia Basics"
 
 shipyard "Thi Ancestral"
 	"Uratal Jaqael"
+	"Uratal Kelai"
 
