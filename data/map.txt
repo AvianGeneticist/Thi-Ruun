@@ -47,6 +47,8 @@ system Polaq-A-094
 	fleet "Small Thi'Ruun Transport" 275
 	fleet "Small Thi Ancestral" 450
 	fleet "Small Thi Traders" 300
+	fleet "Large Thi Traders" 500
+	fleet "Large Western Thi Traders" 3000
 	object
 		sprite star/k0
 		period 10
@@ -141,6 +143,7 @@ system Ott-A-999
 	fleet "Large Western Thi Traders" 900
 	fleet "Small Thi Ancestral" 600
 	fleet "Small Thi Traders" 300
+	fleet "Large Thi Traders" 500
 	object
 		sprite star/f3
 		distance 150
@@ -275,6 +278,7 @@ system Polaq-C-093
 	fleet "Large Western Thi Traders" 1200
 	fleet "Small Thi Ancestral" 725
 	fleet "Small Thi Traders" 300
+	fleet "Large Thi Traders" 500
 	object
 		sprite star/a8
 		period 10
@@ -337,6 +341,7 @@ system Torr-AC-009
 	fleet "Large Western Thi Traders" 1000
 	fleet "Small Thi Ancestral" 725
 	fleet "Small Thi Traders" 325
+	fleet "Large Thi Traders" 525
 	object
 		sprite star/o8
 		period 10
@@ -456,6 +461,7 @@ system Yjkil-A-011
 	fleet "Large Western Thi Traders" 1500
 	fleet "Small Thi Ancestral" 750
 	fleet "Small Thi Traders" 300
+	fleet "Large Thi Traders" 500
 	object
 		sprite star/g5
 		period 10
@@ -532,6 +538,7 @@ system Polaq-C-100
 	fleet "Large Western Thi Traders" 1800
 	fleet "Small Thi Ancestral" 750
 	fleet "Small Thi Traders" 400
+	fleet "Large Thi Traders" 800
 	object
 		sprite star/o8
 		period 10
@@ -602,6 +609,7 @@ system Polaq-A-102
 	fleet "Large Western Thi Traders" 3060
 	fleet "Small Thi Ancestral" 700
 	fleet "Small Thi Traders" 340
+	fleet "Large Thi Traders" 500
 	object
 		sprite star/f3
 		period 10
@@ -746,6 +754,7 @@ system Polaq-D-091
 	fleet "Large Western Thi Traders" 800
 	fleet "Small Thi Ancestral" 800
 	fleet "Small Thi Traders" 700
+	fleet "Large Thi Traders" 800
 	object
 		sprite star/f5-old
 		period 10
@@ -857,6 +866,7 @@ system Gnoki-F-046
 	fleet "Large Western Thi Traders" 2400
 	fleet "Small Thi Ancestral" 900
 	fleet "Small Thi Traders" 450
+	fleet "Large Thi Traders" 1200
 	object
 		sprite star/b0
 		distance 131.5
@@ -1060,6 +1070,7 @@ system Irnell-D-022
 	fleet "Small Thi'Ruun Transport" 6000
 	fleet "Large Western Thi Traders" 5500
 	fleet "Small Thi Traders" 4500
+	fleet "Large Thi Traders" 5500
 	object
 		sprite star/o0
 		period 10
@@ -1139,8 +1150,11 @@ system Gnoki-BiD-041
 	trade Industrial 650
 	trade "Luxury Goods" 952
 	trade Medical 534
-	trade Metal 319
+	trade Metal 219
 	trade Plastic 503
+	fleet "Small Thi'Ruun Transport" 300
+	fleet "Small Thi Traders" 240
+	fleet "Large Thi Traders" 600
 	object
 		sprite star/a8
 		period 10
@@ -1502,6 +1516,7 @@ system Yjkil-G-042
 	fleet "Large Western Thi Traders" 9000
 	fleet "Small Thi Ancestral" 12000
 	fleet "Small Thi Traders" 1200
+	fleet "Large Thi Traders" 6000
 	object
 		sprite star/g-giant
 		period 10
@@ -1630,6 +1645,7 @@ system Ezrata-F-002
 	fleet "Large Western Thi Traders" 2400
 	fleet "Small Thi Ancestral" 1000
 	fleet "Small Thi Traders" 800
+	fleet "Large Thi Traders" 1400
 	object
 		sprite star/k3
 		distance 187.69954
@@ -1851,6 +1867,7 @@ system Nhili-F-101
 	fleet "Large Western Thi Traders" 3000
 	fleet "Small Thi Ancestral" 1200
 	fleet "Small Thi Traders" 750
+	fleet "Large Thi Traders" 900
 	object
 		sprite star/m-supergiant
 		period 10

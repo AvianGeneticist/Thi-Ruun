@@ -113,3 +113,22 @@ fleet "Small Thi Traders"
 		Yurlia-8
 		Uyiti-Kalore 8
 
+fleet "Large Thi Traders"
+	government Thi-Ruun
+	names civilian
+	fighters civilian
+	cargo 4
+	personality
+		disables
+	variant 6
+		Yurlia-8 2
+		Uyiti-Kalore 16
+	variant 6
+		Yurlia-6 2
+		Yurlia-8
+		Uyiti-Kalore 20
+	variant 2
+		Sakaar-Malue-Kalore
+		Yurlia-4 3
+		Uyiti-Kalore 20
+

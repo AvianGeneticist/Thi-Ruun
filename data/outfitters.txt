@@ -45,5 +45,6 @@ outfitter "thi-ruun intermediate"
 
 outfitter "thi-ruun advanced"
 	"Intercontinental Compound Steering"
+	"Intercontinental Compound Thruster"
 	"Shield Reconstructor (Charge)"
 
