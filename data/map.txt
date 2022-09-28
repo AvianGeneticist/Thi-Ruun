@@ -801,12 +801,83 @@ system Torr-CD-011
 system Yjkil-D-053
 	pos -386 -995.58329
 	government Kelaar-Ruun
+	habitable 4160
+	belt 1529
 	link Gnoki-D-042
 	link Irnell-D-022
 	link Polaq-D-091
 	link Polaq-D-111
 	link Torr-D-012
-	fleet "Kelaar'Ruun (Small)" 600
+	asteroids "large rock" 1 3.876
+	asteroids "small metal" 7 2.958
+	asteroids "medium metal" 172 4.233
+	asteroids "large metal" 1 3.366
+	minables tungsten 5 5.5887299
+	minables aluminum 32 6.6162542
+	minables platinum 8 5.1710371
+	trade Clothing 300
+	trade Electronics 777
+	trade Equipment 503
+	trade Food 158
+	trade "Heavy Metals" 1263
+	trade Industrial 819
+	trade "Luxury Goods" 1513
+	trade Medical 441
+	trade Metal 216
+	trade Plastic 395
+	fleet "Kelaar'Ruun (Small)" 300
+	fleet "Small Thi'Ruun Transport" 350
+	fleet "Small Thi Traders" 400
+	fleet "Large Thi Traders" 900
+	fleet "Small Thi Ancestral" 700
+	fleet "Large Western Thi Traders" 1000
+	object
+		sprite star/giant
+		period 124.28654
+	object
+		sprite planet/cloud5
+		distance 655
+		period 296.33774
+	object
+		sprite planet/fog0
+		distance 2955.9286
+		period 777.503
+		object
+			sprite planet/ice8
+			distance 194.48304
+			period 64.882806
+	object
+		sprite planet/jupiter-b
+		distance 1891.4906
+		period 1430.6576
+		object Yukur-Takayi-Mlayho
+			sprite planet/rock0
+			distance 321.46814
+			period 186
+		object
+			sprite planet/lava1
+			distance 460.31203
+			period 216
+	object
+		sprite planet/gas11-b
+		distance 4023.8488
+		period 3165.5621
+		object
+			sprite planet/rock14-b
+			distance 302
+			period 137.3498
+	object
+		sprite planet/gas7-b
+		distance 5557
+		period 7322.9422
+		object
+			sprite planet/dust5
+			distance 287
+			period 127.24492
+		object
+			sprite planet/rock17-b
+			distance 428
+			period 545.33077
 
 system Gnoki-D-042
 	pos -322.02778 -976.22217
@@ -1132,8 +1203,54 @@ system Torr-Bi-003
 system Tarmi-Bi-037
 	pos -177.61111 -879.94449
 	government Thi-Ruun
+	habitable 636.25
+	belt 1414
 	link Gnoki-BiD-041
 	link Torr-Bi-003
+	asteroids "medium rock" 10 4.8048
+	asteroids "large rock" 2 3.12
+	asteroids "small metal" 1 4.1184
+	asteroids "large metal" 2 3.3696
+	minables lead 4 6.3495245
+	trade Clothing 304
+	trade Electronics 855
+	trade Equipment 704
+	trade Food 203
+	trade "Heavy Metals" 692
+	trade Industrial 685
+	trade "Luxury Goods" 1006
+	trade Medical 576
+	trade Metal 217
+	trade Plastic 491
+	object
+		sprite star/a-dwarf
+		distance 123.13949
+		period 52.25595
+	object
+		sprite star/p0-old
+		distance 6.3605108
+		period 52.25595
+		offset 180
+	object Vrakli-Inghas
+		sprite planet/ocean2
+		distance 373.05556
+		period 168.81489
+	object Vrakli-Tagapol
+		sprite planet/forest5
+		distance 852.71092
+		period 651.09589
+	object
+		sprite planet/rock17-b
+		distance 1254
+		period 1574.6259
+	object
+		sprite planet/browndwarf-t-rouge
+		distance 2216.2693
+		period 4247.5696
+	object
+		sprite planet/gas14-b
+		distance 3063
+		period 6011.0673
 
 system Gnoki-BiD-041
 	pos -175.72222 -909.61116
@@ -2236,4 +2353,23 @@ planet Ural-Kellia
 	outfitter "thi-ruun basics"
 	outfitter "thi-ruun intermediate"
 	security 0.9
+
+planet Yukur-Takayi-Mlayho
+	description "Yukur-Takayi-Mlayho is, on the surface, a relatively unimpressive mining outpost; just a few large holes in the surface of the planet. However, beneath the surface is a colossal network of hollowed out tunnels and chambers, forming a large mining and mineral processing complex that rivals some of huamnity's largest industrial centers."
+	spaceport "The spaceport is integrated into the tunnels, and bustles with activity, both from ships and wall-mounted transport vehicles. Business here is conducted very quickly; thousands of Thi-Ruun drones work on each ship like ants devouring an elephant."
+	shipyard "kelaar basics"
+	outfitter "Kelaar Ammo"
+	outfitter "thi-ruun basics"
+
+planet Vrakli-Inghas
+	landscape land/sea1
+	description "Vrakli-Inghas is a fairly warm ocean world; an environment that is thoroughly uncomfortable to the Thi-Ruun, but a crucial world nonetheless, due to the fact that the oceans here have extremely high levels of deuterium, making the planet an excellent source of fusion fuel for the Thi-Ruun's fusion reactor experiments, or fuel for their enormous starfleets."
+	spaceport "Unusually for a Thi-Ruun planetary settlement, the spaceport is enveloped in a thick shield that blocks much of the sea spray and humidity from the planet. Looking at the shields up close is like watching rain fall against a pane of (somewhat illuminated) glass."
+	outfitter "thi-ruun basics"
+
+planet Vrakli-Tagapol
+	landscape land/mountain1
+	description "Vrakli-Tagapol is a thoroughly unbeautiful planet by human standards, but is one of the rare Thi-Ruun worlds full of natural life."
+	description "The main structure, thus, is built above an enormous mountain range, which has been largely hollowed out via mining. Despite occupying a fraction of a percent of the planet's surface, the superstructure houses billions of Thi-Ruun."
+	spaceport "The spaceport here is vastly high above the surface; essentially built over a city that's elevated over the mountains. The structure holds solid no matter how many ships land upon it, with not so much as a creak. Thi-Ruun research teams can be seen coaxing animals into terrariums for study; a rare sight among a mostly dead region of space."
 
