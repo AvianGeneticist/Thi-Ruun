@@ -1,3 +1,0 @@
-outfit "Sakaar'Ruun Ammo"
-	plural ""
-

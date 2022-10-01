@@ -236,8 +236,76 @@ system Ott-A-999
 system Polaq-E-079
 	pos 119.19444 -1247.4444
 	government Thi-Ruun
+	habitable 1641.25
+	belt 1529
 	link Gnoki-E-041
 	link Yjkil-E-041
+	asteroids "large rock" 1 3.876
+	asteroids "small metal" 7 2.958
+	asteroids "medium metal" 172 4.233
+	asteroids "large metal" 1 3.366
+	minables tungsten 5 5.5887299
+	minables aluminum 32 6.6162542
+	minables platinum 8 5.1710371
+	trade Clothing 383
+	trade Electronics 803
+	trade Equipment 345
+	trade Food 162
+	trade "Heavy Metals" 1082
+	trade Industrial 556
+	trade "Luxury Goods" 1384
+	trade Medical 656
+	trade Metal 556
+	trade Plastic 285
+	fleet "Small Thi Transport" 300
+	fleet "Small Thi Traders" 300
+	fleet "Small Thi Ancestral" 700
+	fleet "Large Thi Traders" 1000
+	object
+		sprite star/k8
+		distance 100
+		period 169.87625
+	object
+		sprite star/f3
+		distance 100
+		period 169.87625
+		offset 180
+	object
+		sprite planet/cloud5
+		distance 698
+		period 325.9929
+	object
+		sprite planet/fog0
+		distance 1289
+		period 818.09622
+		object
+			sprite planet/ice4
+			distance 267.9931
+			period 64.882806
+	object
+		sprite planet/jupiter
+		distance 1914
+		period 1480.2597
+	object Mlaqu-Aeros
+		sprite planet/gas12
+		distance 3210
+		period 3215.0117
+		object
+			sprite planet/rock17
+			distance 312
+			period 339.41125
+	object
+		sprite planet/gas7
+		distance 5580
+		period 7368.4529
+		object
+			sprite planet/dust5
+			distance 287
+			period 127.24492
+		object
+			sprite planet/rock17-b
+			distance 428
+			period 545.33077
 
 system Torr-E-004
 	pos 252.30556 -1191.0833
@@ -2046,8 +2114,6 @@ system Nhili-F-101
 			distance 204
 			period 137.83423
 
-system Polaq-G-071
-
 system "Gamma Cassiopeiae"
 	add link Kosach
 
@@ -2373,4 +2439,10 @@ planet Vrakli-Tagapol
 	description "Vrakli-Tagapol is a thoroughly unbeautiful planet by human standards, but is one of the rare Thi-Ruun worlds full of natural life."
 	description "The main structure, thus, is built above an enormous mountain range, which has been largely hollowed out via mining. Despite occupying a fraction of a percent of the planet's surface, the superstructure houses billions of Thi-Ruun."
 	spaceport "The spaceport here is vastly high above the surface; essentially built over a city that's elevated over the mountains. The structure holds solid no matter how many ships land upon it, with not so much as a creak. Thi-Ruun research teams can be seen coaxing animals into terrariums for study; a rare sight among a mostly dead region of space."
+
+planet Mlaqu-Aeros
+	landscape land/nasa2
+	description "Mlaqu-Aeros is a particularly large gas giant; large enough that two separate cloud cities have emerged upon the planet. Each city is extremely well-developed, housing over a trillion Thi-Ruun each, making this world one of the most populous."
+	spaceport "The spaceport here is a third structure located between the two major cloud cities; miles of docks stretching across the surface of the planet, allowing ships to come and go as they please."
+	outfitter "thi-ruun basics"
 
