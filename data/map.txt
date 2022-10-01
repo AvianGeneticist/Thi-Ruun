@@ -44,7 +44,7 @@ system Polaq-A-094
 	trade Medical 491
 	trade Metal 392
 	trade Plastic 532
-	fleet "Small Thi'Ruun Transport" 275
+	fleet "Small Thi Transport" 275
 	fleet "Small Thi Ancestral" 450
 	fleet "Small Thi Traders" 300
 	fleet "Large Thi Traders" 500
@@ -139,7 +139,7 @@ system Ott-A-999
 	trade Medical 467
 	trade Metal 356
 	trade Plastic 498
-	fleet "Small Thi'Ruun Transport" 200
+	fleet "Small Thi Transport" 200
 	fleet "Large Western Thi Traders" 900
 	fleet "Small Thi Ancestral" 600
 	fleet "Small Thi Traders" 300
@@ -274,7 +274,7 @@ system Polaq-C-093
 	trade Medical 598
 	trade Metal 307
 	trade Plastic 536
-	fleet "Small Thi'Ruun Transport" 300
+	fleet "Small Thi Transport" 300
 	fleet "Large Western Thi Traders" 1200
 	fleet "Small Thi Ancestral" 725
 	fleet "Small Thi Traders" 300
@@ -337,7 +337,7 @@ system Torr-AC-009
 	trade Medical 618
 	trade Metal 332
 	trade Plastic 512
-	fleet "Small Thi'Ruun Transport" 300
+	fleet "Small Thi Transport" 300
 	fleet "Large Western Thi Traders" 1000
 	fleet "Small Thi Ancestral" 725
 	fleet "Small Thi Traders" 325
@@ -457,7 +457,7 @@ system Yjkil-A-011
 	trade Medical 475
 	trade Metal 398
 	trade Plastic 505
-	fleet "Small Thi'Ruun Transport" 300
+	fleet "Small Thi Transport" 300
 	fleet "Large Western Thi Traders" 1500
 	fleet "Small Thi Ancestral" 750
 	fleet "Small Thi Traders" 300
@@ -534,7 +534,7 @@ system Polaq-C-100
 	trade Metal 322
 	trade Plastic 524
 	fleet "Sakaar'Ruun (Small)" 210
-	fleet "Small Thi'Ruun Transport" 600
+	fleet "Small Thi Transport" 600
 	fleet "Large Western Thi Traders" 1800
 	fleet "Small Thi Ancestral" 750
 	fleet "Small Thi Traders" 400
@@ -605,7 +605,7 @@ system Polaq-A-102
 	trade Medical 489
 	trade Metal 341
 	trade Plastic 529
-	fleet "Small Thi'Ruun Transport" 330
+	fleet "Small Thi Transport" 330
 	fleet "Large Western Thi Traders" 3060
 	fleet "Small Thi Ancestral" 700
 	fleet "Small Thi Traders" 340
@@ -750,7 +750,7 @@ system Polaq-D-091
 	trade Metal 214
 	trade Plastic 326
 	fleet "Kelaar'Ruun (Small)" 150
-	fleet "Small Thi'Ruun Transport" 600
+	fleet "Small Thi Transport" 600
 	fleet "Large Western Thi Traders" 800
 	fleet "Small Thi Ancestral" 800
 	fleet "Small Thi Traders" 700
@@ -826,7 +826,7 @@ system Yjkil-D-053
 	trade Metal 216
 	trade Plastic 395
 	fleet "Kelaar'Ruun (Small)" 300
-	fleet "Small Thi'Ruun Transport" 350
+	fleet "Small Thi Transport" 350
 	fleet "Small Thi Traders" 400
 	fleet "Large Thi Traders" 900
 	fleet "Small Thi Ancestral" 700
@@ -933,7 +933,7 @@ system Gnoki-F-046
 	trade Medical 395
 	trade Metal 327
 	trade Plastic 378
-	fleet "Small Thi'Ruun Transport" 450
+	fleet "Small Thi Transport" 450
 	fleet "Large Western Thi Traders" 2400
 	fleet "Small Thi Ancestral" 900
 	fleet "Small Thi Traders" 450
@@ -1031,7 +1031,7 @@ system Polaq-D-111
 	trade Medical 540
 	trade Metal 227
 	trade Plastic 472
-	fleet "Small Thi'Ruun Transport" 400
+	fleet "Small Thi Transport" 400
 	fleet "Large Western Thi Traders" 900
 	fleet "Small Thi Ancestral" 750
 	fleet "Small Thi Traders" 425
@@ -1138,7 +1138,7 @@ system Irnell-D-022
 	trade Plastic 295
 	fleet "Kelaar'Ruun (Small)" 300
 	fleet "Sakaar'Ruun (Small)" 300
-	fleet "Small Thi'Ruun Transport" 6000
+	fleet "Small Thi Transport" 6000
 	fleet "Large Western Thi Traders" 5500
 	fleet "Small Thi Traders" 4500
 	fleet "Large Thi Traders" 5500
@@ -1183,6 +1183,7 @@ planet Praq-Ern-Kellia
 	spaceport "The spaceport here puts even the greatest shipyards humanity has built to shame. Though not quite a complete ring around the planet yet."
 	government Thi-Ruun
 	shipyard "Kalore-Illoca Advanced"
+	shipyard "Relac Basics"
 	shipyard "Thi Ancestral"
 	shipyard "Thi Basics"
 	shipyard "Yurlia Advanced"
@@ -1269,7 +1270,7 @@ system Gnoki-BiD-041
 	trade Medical 534
 	trade Metal 219
 	trade Plastic 503
-	fleet "Small Thi'Ruun Transport" 300
+	fleet "Small Thi Transport" 300
 	fleet "Small Thi Traders" 240
 	fleet "Large Thi Traders" 600
 	object
@@ -1629,7 +1630,7 @@ system Yjkil-G-042
 	trade Medical 407
 	trade Metal 194
 	trade Plastic 456
-	fleet "Small Thi'Ruun Transport" 1500
+	fleet "Small Thi Transport" 1500
 	fleet "Large Western Thi Traders" 9000
 	fleet "Small Thi Ancestral" 12000
 	fleet "Small Thi Traders" 1200
@@ -1758,7 +1759,7 @@ system Ezrata-F-002
 	trade Medical 446
 	trade Metal 312
 	trade Plastic 409
-	fleet "Small Thi'Ruun Transport" 900
+	fleet "Small Thi Transport" 900
 	fleet "Large Western Thi Traders" 2400
 	fleet "Small Thi Ancestral" 1000
 	fleet "Small Thi Traders" 800
@@ -1905,7 +1906,7 @@ system Ezrata-G-008
 	trade Medical 534
 	trade Metal 221
 	trade Plastic 503
-	fleet "Small Thi'Ruun Transport" 6000
+	fleet "Small Thi Transport" 6000
 	fleet "Small Thi Traders" 8000
 	object
 		sprite star/o5
@@ -1980,7 +1981,7 @@ system Nhili-F-101
 	trade Medical 490
 	trade Metal 301
 	trade Plastic 493
-	fleet "Small Thi'Ruun Transport" 600
+	fleet "Small Thi Transport" 600
 	fleet "Large Western Thi Traders" 3000
 	fleet "Small Thi Ancestral" 1200
 	fleet "Small Thi Traders" 750

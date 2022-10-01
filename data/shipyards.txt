@@ -6,6 +6,7 @@ shipyard "kelaar basics"
 	"Kelaar Wavebreak"
 
 shipyard "Thi Basics"
+	Pollo-Nelu
 	Tarlec-Pollo
 	Uyiti-Kalore
 
@@ -23,4 +24,7 @@ shipyard "Thi Ancestral"
 shipyard "Yurlia Advanced"
 	Yurlia-6
 	Yurlia-8
+
+shipyard "Relac Basics"
+	Val-Lorai
 

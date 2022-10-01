@@ -1,6 +1,7 @@
 fleet "Kelaar'Ruun (Small)"
 	government Kelaar-Ruun
-	names civilian
+	names "thi ruun"
+	fighters "thi-ruun fighter"
 	cargo 1
 	commodities Metal Equipment Industrial Electronics "Heavy Metals"
 	personality
@@ -12,7 +13,8 @@ fleet "Kelaar'Ruun (Small)"
 
 fleet "Sakaar'Ruun (Small)"
 	government Sakaar-Ruun
-	names civilian
+	names "thi ruun"
+	fighters "thi-ruun fighter"
 	cargo 1
 	commodities Metal Plastic "Heavy Metals" Electronics
 	personality
@@ -22,24 +24,36 @@ fleet "Sakaar'Ruun (Small)"
 	variant
 		"Sakaar Shear" 3
 
-fleet "Small Thi'Ruun Transport"
+fleet "Small Thi Transport"
 	government Thi-Ruun
-	names civilian
-	fighters civilian
+	names "thi ruun"
+	fighters "thi-ruun fighter"
 	commodities Metal Medical Electronics Industrial "Heavy Metals" Equipment
 	personality
 		disables
+	variant 8
+		Tarlec-Pollo
+	variant 10
+		Tarlec-Pollo 2
+	variant 4
+		Tarlec-Pollo 3
+	variant 4
+		Yurlia-4
+		Pollo-Nelu 4
 	variant 6
 		Tarlec-Pollo
-	variant 8
-		Tarlec-Pollo 2
+		Pollo-Nelu 4
+		Yurlia-4
 	variant 2
-		Tarlec-Pollo 3
+		Yurlia-6
+		Pollo-Nelu 6
+	variant 2
+		Tarlec-Pollo 4
 
 fleet "Large Western Thi Traders"
 	government Thi-Ruun
-	names civilian
-	fighters civilian
+	names "thi ruun"
+	fighters "thi-ruun fighter"
 	cargo 5
 	commodities Metal Plastic Equipment Medical Industrial Electronics "Heavy Metals" "Luxury Goods"
 	personality
@@ -78,8 +92,8 @@ fleet "Large Western Thi Traders"
 
 fleet "Small Thi Ancestral"
 	government Thi-Ruun
-	names civilian
-	fighters civilian
+	names "thi ruun"
+	fighters "thi-ruun fighter"
 	cargo 4
 	personality
 		confusion 4
@@ -96,8 +110,8 @@ fleet "Small Thi Ancestral"
 
 fleet "Small Thi Traders"
 	government Thi-Ruun
-	names civilian
-	fighters civilian
+	names "thi ruun"
+	fighters "thi-ruun fighter"
 	personality
 		disables
 	variant 6
@@ -112,11 +126,30 @@ fleet "Small Thi Traders"
 	variant 2
 		Yurlia-8
 		Uyiti-Kalore 8
+	variant 8
+		Val-Lorai
+	variant 4
+		Val-Lorai 2
+	variant 2
+		Yurlia-6
+		Val-Lorai
+		Uyiti-Kalore 6
+	variant 4
+		Val-Lorai
+		Yurlia-4
+		Uyiti-Kalore 4
+	variant 4
+		Tuell-Kalore
+		Val-Lorai
+	variant 4
+		Tuell-Kalore
+		Yurlia-4
+		Uyiti-Kalore 4
 
 fleet "Large Thi Traders"
 	government Thi-Ruun
-	names civilian
-	fighters civilian
+	names "thi ruun"
+	fighters "thi-ruun fighter"
 	cargo 4
 	personality
 		disables
@@ -131,4 +164,13 @@ fleet "Large Thi Traders"
 		Sakaar-Malue-Kalore
 		Yurlia-4 3
 		Uyiti-Kalore 20
+	variant 6
+		Yurlia-8
+		Uyiti-Kalore 8
+		Val-Lorai 2
+	variant 4
+		Val-Lorai 4
+	variant 2
+		Val-Lorai 2
+		Sakaar-Malue-Kalore
 
