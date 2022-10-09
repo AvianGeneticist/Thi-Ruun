@@ -59,15 +59,15 @@ fleet "Large Western Thi Traders"
 	personality
 		disables
 	variant 6
-		Tuell-Kalore
+		Tuell-Kalore 2
 	variant 8
-		Tuell-Kalore
+		Tuell-Kalore 2
 		Tarlec-Pollo
 	variant 6
-		Tuell-Kalore
+		Tuell-Kalore 2
 		Tarlec-Pollo 2
 	variant 4
-		Tuell-Kalore 2
+		Tuell-Kalore 3
 	variant 8
 		Sakaar-Malue-Kalore
 	variant 3
@@ -82,11 +82,17 @@ fleet "Large Western Thi Traders"
 	variant 2
 		Yurlia-8
 		Uyiti-Kalore 8
-	variant
+	variant 2
+		Sarula-Mikai-Kalore
+	variant 2
 		Yurlia-8
 		Uyiti-Kalore 16
 		Sakaar-Malue-Kalore
 	variant 2
+		Sakaar-Malue-Kalore
+		Uyiti-Kalore 8
+	variant 2
+		Sarula-Mikai-Kalore
 		Sakaar-Malue-Kalore
 		Uyiti-Kalore 8
 
@@ -119,7 +125,8 @@ fleet "Small Thi Traders"
 		Uyiti-Kalore 4
 	variant 3
 		Yurlia-4 2
-		Uyiti-Kalore 8
+		Uyiti-Kalore 7
+		Malue-Kelit
 	variant 4
 		Yurlia-6
 		Uyiti-Kalore 6
@@ -133,11 +140,13 @@ fleet "Small Thi Traders"
 	variant 2
 		Yurlia-6
 		Val-Lorai
-		Uyiti-Kalore 6
+		Uyiti-Kalore 5
+		Malue-Kelit
 	variant 4
 		Val-Lorai
 		Yurlia-4
-		Uyiti-Kalore 4
+		Uyiti-Kalore 2
+		Malue-Kelit 2
 	variant 4
 		Tuell-Kalore
 		Val-Lorai
@@ -145,6 +154,17 @@ fleet "Small Thi Traders"
 		Tuell-Kalore
 		Yurlia-4
 		Uyiti-Kalore 4
+	variant 4
+		Val-Lorai
+		Val-Yurai
+		Uyiti-Kalore 2
+		Tuell-Kelit 3
+	variant 4
+		Val-Yurai
+		Tuell-Kalore
+		Tuell-Kelit 3
+		Uyiti-Kalore
+		Pollo-Nelu
 
 fleet "Large Thi Traders"
 	government Thi-Ruun
@@ -155,7 +175,8 @@ fleet "Large Thi Traders"
 		disables
 	variant 6
 		Yurlia-8 2
-		Uyiti-Kalore 16
+		Uyiti-Kalore 13
+		Malue-Kelit 3
 	variant 6
 		Yurlia-6 2
 		Yurlia-8
@@ -163,7 +184,8 @@ fleet "Large Thi Traders"
 	variant 2
 		Sakaar-Malue-Kalore
 		Yurlia-4 3
-		Uyiti-Kalore 20
+		Uyiti-Kalore 16
+		Malue-Kelit 4
 	variant 6
 		Yurlia-8
 		Uyiti-Kalore 8
@@ -173,4 +195,108 @@ fleet "Large Thi Traders"
 	variant 2
 		Val-Lorai 2
 		Sakaar-Malue-Kalore
+	variant 4
+		Val-Lorai 2
+		Val-Yurai 2
+		Uyiti-Kalore 3
+		Pollo-Nelu
+		Tuell-Kelit 6
+	variant 6
+		Malreg-Val-Lorai
+		Tuell-Kelit 2
+	variant 4
+		Malreg-Val-Lorai
+		Val-Lorai 2
+		Tuell-Kelit 2
+	variant 2
+		Malreg-Val-Lorai
+		Sakaar-Malue-Kalore
+		Uyiti-Kalore 7
+		Tuell-Kelit 2
+		Malue-Kelit
+	variant 4
+		Yurlia-8
+		Malreg-Val-Lorai
+		Uyiti-Kalore 8
+		Tuell-Kelit 2
+
+fleet "Thi Patrol"
+	government Thi-Ruun
+	names "thi ruun"
+	fighters "thi-ruun fighter"
+	cargo 2
+	personality
+		confusion 8
+		disables heroic
+	variant 6
+		Val-Yurai 3
+		"Uratal Kelai" 6
+		Tuell-Kelit 9
+	variant 4
+		Val-Yurai
+		Sakaar-Malue-Kalore
+		"Uratal Kelai" 10
+		Tuell-Kelit 3
+	variant 4
+		Val-Yurai 2
+		Uritek-Ceqai 2
+		"Uratal Kelai" 4
+		Tuell-Kelit 6
+	variant 2
+		Val-Yurai
+		Uritek-Ceqai 4
+		"Uratal Kelai" 2
+		Tuell-Kelit 3
+	variant 2
+		Yurlia-8
+		Val-Yurai 2
+		"Uratal Kelai" 12
+		Tuell-Kelit 6
+
+fleet "Thi Warfleet"
+	government Thi-Ruun
+	names "thi ruun"
+	fighters "thi-ruun fighter"
+	cargo 2
+	personality
+		confusion 2
+		heroic vindictive
+	variant 6
+		Val-Yurai 7
+		"Uratal Kelai" 14
+		Tuell-Kelit 21
+	variant 4
+		Val-Yurai 3
+		Sakaar-Malue-Kalore 2
+		"Uratal Kelai" 22
+		Tuell-Kelit 9
+	variant 4
+		Sakaar-Malue-Kalore 2
+		Uritek-Ceqai 4
+		"Uratal Kelai" 16
+	variant 4
+		Val-Yurai 3
+		Uritek-Ceqai 5
+		"Uratal Kelai" 6
+		Tuell-Kelit 9
+	variant 4
+		Sakaar-Malue-Kalore
+		Uritek-Ceqai 7
+	variant 4
+		Sarula-Mikai-Kalore
+		Uritek-Ceqai 7
+		"Uratal Kelai" 8
+	variant 2
+		Sakaar-Malue-Kalore 3
+		"Uratal Kelai" 24
+	variant 2
+		Sakaar-Malue-Kalore 2
+		Sarula-Mikai-Kalore
+		"Uratal Kelai" 16
+	variant 2
+		Sakaar-Malue-Kalore
+		Sarula-Mikai-Kalore 2
+		"Uratal Kelai" 8
+	variant 2
+		Sarula-Mikai-Kalore 3
 
