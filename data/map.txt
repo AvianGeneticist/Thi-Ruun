@@ -31,6 +31,7 @@ system Torr-ABiiE-006
 	fleet "Large Thi Traders" 525
 	fleet "Thi Patrol" 300
 	fleet "Thi Warfleet" 975
+	fleet "Large Thi Transport" 1200
 	habitable 28.8
 	belt 1765
 	trade Clothing 188
@@ -155,6 +156,7 @@ system Polaq-A-094
 	fleet "Large Western Thi Traders" 3000
 	fleet "Thi Patrol" 275
 	fleet "Thi Warfleet" 925
+	fleet "Large Thi Transport" 1050
 	habitable 1081.25
 	belt 1929
 	trade Clothing 169
@@ -243,6 +245,7 @@ system Polaq-A-096
 	fleet "Thi Patrol" 325
 	fleet "Thi Warfleet" 1100
 	fleet "Small Thi Ancestral" 425
+	fleet "Large Thi Transport" 1200
 	habitable 62.6
 	belt 1529
 	trade Clothing 192
@@ -314,6 +317,7 @@ system Ott-A-999
 	fleet "Large Thi Traders" 500
 	fleet "Thi Patrol" 250
 	fleet "Thi Warfleet" 750
+	fleet "Large Thi Transport" 950
 	habitable 2500
 	belt 2000
 	trade Clothing 137
@@ -433,6 +437,7 @@ system Polaq-E-079
 	fleet "Large Thi Traders" 1000
 	fleet "Thi Patrol" 350
 	fleet "Thi Warfleet" 975
+	fleet "Large Thi Transport" 1100
 	habitable 1641.25
 	belt 1529
 	trade Clothing 383
@@ -521,6 +526,7 @@ system Polaq-C-093
 	fleet "Large Thi Traders" 500
 	fleet "Thi Patrol" 375
 	fleet "Thi Warfleet" 975
+	fleet "Large Thi Transport" 1000
 	habitable 1100
 	belt 1453
 	trade Clothing 220
@@ -587,6 +593,7 @@ system Torr-AC-009
 	fleet "Large Thi Traders" 525
 	fleet "Thi Patrol" 325
 	fleet "Thi Warfleet" 875
+	fleet "Large Thi Transport" 1000
 	habitable 1731.2
 	trade Clothing 183
 	trade Electronics 765
@@ -703,6 +710,7 @@ system Gnoki-C-052
 	fleet "Large Western Thi Traders" 850
 	fleet "Thi Patrol" 375
 	fleet "Thi Warfleet" 1100
+	fleet "Large Thi Transport" 775
 	habitable 1843.2
 	belt 1048
 	trade Clothing 256
@@ -772,6 +780,7 @@ system Yjkil-A-011
 	fleet "Large Thi Traders" 500
 	fleet "Thi Patrol" 300
 	fleet "Thi Warfleet" 800
+	fleet "Large Thi Transport" 1050
 	habitable 8792.2
 	trade Clothing 149
 	trade Electronics 776
@@ -917,6 +926,7 @@ system Yjkil-C-044
 	fleet "Large Western Thi Traders" 850
 	fleet "Thi Patrol" 350
 	fleet "Thi Warfleet" 1050
+	fleet "Large Thi Transport" 1300
 	habitable 62.6
 	belt 1529
 	trade Clothing 193
@@ -990,6 +1000,7 @@ system Polaq-A-102
 	fleet "Large Thi Traders" 500
 	fleet "Thi Patrol" 275
 	fleet "Thi Warfleet" 900
+	fleet "Large Thi Transport" 1100
 	habitable 900
 	belt 1178
 	trade Clothing 165
@@ -1094,6 +1105,7 @@ system Yjkil-E-041
 	fleet "Large Thi Traders" 550
 	fleet "Thi Patrol" 300
 	fleet "Thi Warfleet" 900
+	fleet "Large Thi Transport" 1150
 	habitable 3276.8
 	belt 1013
 	trade Clothing 297
@@ -1161,6 +1173,7 @@ system Torr-C-006
 	fleet "Large Western Thi Traders" 700
 	fleet "Thi Patrol" 350
 	fleet "Thi Warfleet" 1300
+	fleet "Large Thi Transport" 1200
 	habitable 500
 	belt 1469
 	trade Clothing 257
@@ -1252,6 +1265,7 @@ system Gnoki-D-051
 	fleet "Large Western Thi Traders" 2800
 	fleet "Thi Patrol" 325
 	fleet "Thi Warfleet" 1050
+	fleet "Large Thi Transport" 975
 	habitable 9181.25
 	belt 1661
 	trade Clothing 292
@@ -1317,6 +1331,7 @@ system Polaq-D-091
 	fleet "Large Thi Traders" 800
 	fleet "Thi Patrol" 400
 	fleet "Thi Warfleet" 950
+	fleet "Large Thi Transport" 1700
 	habitable 1600
 	belt 1768
 	trade Clothing 215
@@ -1385,6 +1400,7 @@ system Torr-CD-011
 	fleet "Small Thi Ancestral" 850
 	fleet "Thi Patrol" 375
 	fleet "Thi Warfleet" 1025
+	fleet "Large Thi Transport" 1150
 	habitable 1306.45
 	belt 1909
 	trade Clothing 263
@@ -1462,6 +1478,7 @@ system Yjkil-D-053
 	fleet "Large Western Thi Traders" 1000
 	fleet "Thi Patrol" 350
 	fleet "Thi Warfleet" 850
+	fleet "Large Thi Transport" 1200
 	habitable 4160
 	belt 1529
 	trade Clothing 300
@@ -1545,6 +1562,7 @@ system Torr-CD-010
 	fleet "Large Western Thi Traders" 2400
 	fleet "Thi Patrol" 300
 	fleet "Thi Warfleet" 1000
+	fleet "Large Thi Transport" 4000
 	habitable 2163.2
 	trade Clothing 236
 	trade Electronics 723
@@ -1624,6 +1642,7 @@ system Gnoki-F-046
 	fleet "Large Thi Traders" 1200
 	fleet "Thi Patrol" 400
 	fleet "Thi Warfleet" 900
+	fleet "Large Thi Transport" 1800
 	habitable 2560
 	belt 1872
 	trade Clothing 193
@@ -1781,6 +1800,7 @@ system Polaq-D-111
 	fleet "Thi Patrol" 400
 	fleet "Thi Warfleet" 1000
 	fleet "Large Thi Traders" 950
+	fleet "Large Thi Transport" 1000
 	belt 1529
 	trade Clothing 438
 	trade Electronics 844
@@ -1864,6 +1884,7 @@ system Yjkil-DG-048
 	fleet "Large Western Thi Traders" 850
 	fleet "Thi Patrol" 300
 	fleet "Thi Warfleet" 1500
+	fleet "Large Thi Transport" 1600
 	habitable 500
 	belt 1156
 	trade Clothing 422
@@ -2065,6 +2086,7 @@ system Irnell-D-022
 	fleet "Large Thi Traders" 5500
 	fleet "Thi Patrol" 350
 	fleet "Thi Warfleet" 950
+	fleet "Large Thi Transport" 18500
 	habitable 3276.8
 	belt 1726
 	trade Clothing 198
@@ -2149,6 +2171,13 @@ system Tarmi-Bi-037
 	asteroids "small metal" 1 4.1184
 	asteroids "large metal" 2 3.3696
 	minables lead 4 6.3495245
+	fleet "Small Thi Traders" 325
+	fleet "Large Thi Transport" 1250
+	fleet "Small Thi Traders" 325
+	fleet "Large Thi Traders" 850
+	fleet "Small Thi Ancestral" 750
+	fleet "Thi Patrol" 350
+	fleet "Thi Warfleet" 1800
 	habitable 636.25
 	belt 1414
 	trade Clothing 304
@@ -2202,6 +2231,8 @@ system Gnoki-BiD-041
 	fleet "Large Thi Traders" 600
 	fleet "Thi Patrol" 350
 	fleet "Thi Warfleet" 900
+	fleet "Large Thi Transport" 900
+	fleet "Small Thi Ancestral" 700
 	habitable 820
 	trade Clothing 275
 	trade Electronics 823
@@ -2362,6 +2393,7 @@ system Torr-D-011
 	fleet "Large Western Thi Traders" 500
 	fleet "Thi Patrol" 325
 	fleet "Thi Warfleet" 1000
+	fleet "Large Thi Transport" 1000
 	habitable 2205
 	belt 1791
 	trade Clothing 374
@@ -2654,6 +2686,7 @@ system Yjkil-G-042
 	fleet "Large Thi Traders" 6000
 	fleet "Thi Patrol" 900
 	fleet "Thi Warfleet" 7000
+	fleet "Large Thi Transport" 14000
 	habitable 6195.2
 	belt 1115
 	trade Clothing 197
@@ -2786,6 +2819,7 @@ system Ezrata-F-002
 	fleet "Large Thi Traders" 1400
 	fleet "Thi Patrol" 600
 	fleet "Thi Warfleet" 2400
+	fleet "Large Thi Transport" 2000
 	habitable 1616.2
 	trade Clothing 210
 	trade Electronics 884
@@ -3010,6 +3044,7 @@ system Nhili-F-101
 	fleet "Large Thi Traders" 900
 	fleet "Thi Patrol" 500
 	fleet "Thi Warfleet" 2200
+	fleet "Large Thi Transport" 4000
 	habitable 117964.8
 	belt 1220
 	trade Clothing 176
@@ -3163,6 +3198,7 @@ planet "Northwest Fringe Wormhole"
 	description "Connects Syndicate, Northwest Fringe, and Thi'Ruun space."
 
 planet Tarmi'phirti
+	attributes "ruun outpost" "thi research"
 	description "Tarmi'Phirti is a relatively new research colony, having been set up in this system to research the wormhole "
 	spaceport "Tarmi'Phirti is an exceedingly busy spaceport, with massive cargo and construction fleets transfering resources to the gas giant the planet orbits. It's explained to you that the Thi'Ruun are building a new cloud city, to establish a more dominant presence within the system."
 
@@ -3271,23 +3307,26 @@ planet Dara-Weqaal
 	spaceport "Saying Dara-Weqaal has a spaceport is stretching the definition quite gravely. A single cluster of landing pads, set into the rock, marks a place for the few shipments the listening post receives to settle."
 
 planet Maba-Racu
-	attributes "cloud city" thi "thi urban"
+	attributes "cloud city" thi
 	landscape land/city8
 	description "Maba-Racu is home to a relatively small cloud city, built in a somewhat important junction system in Thi'Ruun space. Despite the fact that it is relatively non-populous for a Thi'Ruun world, it still houses over ten billion permanent residents, plus many more travellers who have stopped here for one reason or another."
 	spaceport "Maba-Racu's spaceport is of decent size, but nothing particularly impressive, as to be expected of a planet of its status."
 
 planet Tarn-hol
+	attributes "ruun outpost" "ruun salvage"
 	outfitter "Kelaar Ammo"
 	outfitter "Sakaar Ammo"
 	description "Tarn-hol is a graveyard world, where small salvage vessels launch to collected the destroyed pieces of warring Sakaar'Ruun and Kelaar'Ruun ships and bring them to the many graveyards here."
 	spaceport "The spaceport fills you with a slightly morose feeling; it is a colossal structure fashioned from the heavily damaged hulls of long-dead Thi'Ruun ships. Though the Thi'Ruun do not care about mortality in the same way human beings do, you can't help but try to be as respectful as possible as you walk through the roughly-fashioned rooms and halls."
 
 planet Dira-Kelassa-Kruhl
+	attributes "cloud city" "thi urban"
 	landscape land/lava8
 	description "Though most people wouldn't dare to even venture near a brown dwarf, the Thi'Ruun have developed some exceptionally heat resistant materials (largely during the initial creation of the Enforcers). As such, Dira'Ynak has grown into a remarkably advanced world with a sizeable population, which primarily exports exotic, heat resistant materials."
 	spaceport "The spaceport is shrouded in an extremely thick, durable energy shield, which protects the more frail material parts of the station from Dira'Ynak's ambient heat. Careful maintenance and improvements are constantly being made to the shield generators, and the ambient temperature within the shield is merely equivalent to a hot summer day."
 
 planet Ott-Tarmi
+	attributes "belt city" "thi urban"
 	landscape "land/asteroid landing 0"
 	description "Ott-Tarmi is the capital city of a much larger settlement scattered throughout the asteroid belt in this system. Though originally it was believed this planet would become a large mining colony, the low mineral density of the rocks here have lead to it being an excessively populous string of worlds; scattered throughout the belt are nearly 600 billion Thi'Ruun."
 	spaceport "Ott-Tarmi's spaceport is relatively small; in terms of power and resources, the colony is self-sufficient, so trade here is minimal. However, thousands of tiny cargo drones can be seen shuttling through the asteroid belts, and thus the region is very lively, despite the lack of interstellar traffic."
@@ -3343,6 +3382,7 @@ planet Oggilia-Usaros
 	spaceport "The spaceport is clearly designed to make the most of the energy supply here; the roads and rooves are tiled almost entirely with solar panels, and the Thi-Ruun's battery freighters make up a great majority of the traffic."
 
 planet Okkilia-Mayiro
+	attributes "ruun capital" "thi industrial"
 	shipyard "Kalore-Illoca Advanced"
 	shipyard "Thi Basics"
 	outfitter "thi-ruun basics"
@@ -3415,10 +3455,12 @@ planet Mlaqu-Aeros
 	spaceport "The spaceport here is a third structure located between the two major cloud cities; miles of docks stretching across the surface of the planet, allowing ships to come and go as they please."
 
 planet Zexel-Uirs
+	attributes "ruun outpost"
 	description "The settlement here, if one could call it that, is a small outpost for harvesting ice from the planet for usage in other areas of Thi-Ruun space. As the Thi-Ruun despise working with liquid water, they much prefer to store and handle it as ice until it is needed in a liquid state."
 	spaceport "The spaceport here is built on the flattened out top of a mountain that pokes above the ice sheets covering the rest of the planet. Turnaround rates here are quite fast, due to the small size of the spaceport."
 
 planet Vailor-Ough
+	attributes "ruun farm"
 	landscape land/fields1
 	description "The Thi-Ruun are not particularly skilled farmers, but there are some compounds that plants produce in a more energy-efficient way than industry. The Sakaar-Ruun, in particular, use this planet as a research and production bed for plants that produce volatile compounds for use in weaponry."
 	spaceport "The spaceport consists of high walkways over wide irrigation ducts, with plants growing between the high-risen paths. Landing space here is at a surprising premium for a Thi-Ruun world; so much so that many of the largest freighters have to rely on smaller cargo shuttles to bring their cargo to and from orbit."
@@ -3496,6 +3538,7 @@ planet Zelfka-Bliorok
 	spaceport "The spaceport here is built in one of the drier regions of the planet, near one of its poles. The Thi-Ruun here seem uncharacteristically irate; Tenders are in abundance here, and many Thi-Ruun are wearing some sort of watertight suit as a precaution."
 
 planet Civrue-Allec
+	attributes "thi industrial"
 	description `Though it is not the most mineral-rich or most positionally advantageous world, Civrue-Allec houses a respectably sized mineral processing plant that supplies vast amounts of processed alloys to nearby systems. As such, it's about as "middle of the road" as Thi-Ruun planets get, housing about 600 billion Thi-Ruun, most of whom are workers.`
 	spaceport "The spaceport is lively, but mediocre by Thi-Ruun standards. Large highways bring vast amounts of material to and from landed ships, ensuring the industrial machine of Thi-Ruun space is never left wanting for metal."
 

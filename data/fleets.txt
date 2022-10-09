@@ -300,3 +300,16 @@ fleet "Thi Warfleet"
 	variant 2
 		Sarula-Mikai-Kalore 3
 
+fleet "Large Thi Transport"
+	government Thi-Ruun
+	names "thi ruun"
+	fighters "thi-ruun fighter"
+	cargo 1
+	personality
+		disables
+	variant 2
+		Polaq-Pollo
+	variant 4
+		Yurlia-8 4
+		Pollo-Nelu 32
+
