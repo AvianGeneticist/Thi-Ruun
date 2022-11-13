@@ -13,6 +13,8 @@ galaxy "label thi ruun"
 system Torr-ABiiE-006
 	pos 33.999998 -1201.25
 	government Thi-Ruun
+	habitable 28.8
+	belt 1765
 	link Gnoki-Bii-039
 	link Polaq-A-094
 	link Polaq-A-096
@@ -25,15 +27,6 @@ system Torr-ABiiE-006
 	asteroids "large metal" 23 1.716
 	minables lead 10 2.347488
 	minables titanium 10 3.0204346
-	fleet "Small Thi Transport" 300
-	fleet "Small Thi Ancestral" 460
-	fleet "Small Thi Traders" 300
-	fleet "Large Thi Traders" 525
-	fleet "Thi Patrol" 300
-	fleet "Thi Warfleet" 975
-	fleet "Large Thi Transport" 1200
-	habitable 28.8
-	belt 1765
 	trade Clothing 188
 	trade Electronics 791
 	trade Equipment 631
@@ -44,6 +37,13 @@ system Torr-ABiiE-006
 	trade Medical 503
 	trade Metal 377
 	trade Plastic 537
+	fleet "Small Thi Transport" 300
+	fleet "Small Thi Ancestral" 460
+	fleet "Small Thi Traders" 300
+	fleet "Large Thi Traders" 525
+	fleet "Thi Patrol" 300
+	fleet "Thi Warfleet" 975
+	fleet "Large Thi Transport" 1200
 	object
 		sprite star/g-dwarf
 		period 10
@@ -136,6 +136,8 @@ system Tarmi-E-078
 system Polaq-A-094
 	pos -110 -1245.9722
 	government Thi-Ruun
+	habitable 1081.25
+	belt 1929
 	link Ott-A-999
 	link Polaq-A-096
 	link Torr-ABiiE-006
@@ -149,16 +151,6 @@ system Polaq-A-094
 	minables tungsten 33 2.5088979
 	minables silver 11 3.1584813
 	minables aluminum 70 2.3841591
-	fleet "Small Thi Transport" 275
-	fleet "Small Thi Ancestral" 450
-	fleet "Small Thi Traders" 300
-	fleet "Large Thi Traders" 500
-	fleet "Large Western Thi Traders" 3000
-	fleet "Thi Patrol" 275
-	fleet "Thi Warfleet" 925
-	fleet "Large Thi Transport" 1050
-	habitable 1081.25
-	belt 1929
 	trade Clothing 169
 	trade Electronics 790
 	trade Equipment 681
@@ -169,6 +161,14 @@ system Polaq-A-094
 	trade Medical 491
 	trade Metal 392
 	trade Plastic 532
+	fleet "Small Thi Transport" 275
+	fleet "Small Thi Ancestral" 450
+	fleet "Small Thi Traders" 300
+	fleet "Large Thi Traders" 500
+	fleet "Large Western Thi Traders" 3000
+	fleet "Thi Patrol" 275
+	fleet "Thi Warfleet" 925
+	fleet "Large Thi Transport" 1050
 	object
 		sprite star/k0
 		period 10
@@ -228,6 +228,8 @@ system Polaq-Bii-082
 system Polaq-A-096
 	pos -69.694444 -1151
 	government Thi-Ruun
+	habitable 62.6
+	belt 1529
 	link Polaq-A-094
 	link Polaq-A-102
 	link Torr-ABiiE-006
@@ -239,15 +241,6 @@ system Polaq-A-096
 	minables tungsten 5 5.5887299
 	minables aluminum 32 6.6162542
 	minables platinum 8 5.1710371
-	fleet "Small Thi Transport" 275
-	fleet "Small Thi Traders" 275
-	fleet "Large Thi Traders" 850
-	fleet "Thi Patrol" 325
-	fleet "Thi Warfleet" 1100
-	fleet "Small Thi Ancestral" 425
-	fleet "Large Thi Transport" 1200
-	habitable 62.6
-	belt 1529
 	trade Clothing 192
 	trade Electronics 796
 	trade Equipment 633
@@ -258,6 +251,13 @@ system Polaq-A-096
 	trade Medical 506
 	trade Metal 355
 	trade Plastic 537
+	fleet "Small Thi Transport" 275
+	fleet "Small Thi Traders" 275
+	fleet "Large Thi Traders" 850
+	fleet "Thi Patrol" 325
+	fleet "Thi Warfleet" 1100
+	fleet "Small Thi Ancestral" 425
+	fleet "Large Thi Transport" 1200
 	object
 		sprite star/g-dwarf
 		distance 49.134185
@@ -299,6 +299,9 @@ system Polaq-A-096
 system Ott-A-999
 	pos -239.77778 -1250.0834
 	government Thi-Ruun
+	habitable 2500
+	belt 2000
+	haze _menu/haze
 	link Polaq-A-094
 	link Torr-AC-009
 	link Yjkil-A-011
@@ -309,17 +312,6 @@ system Ott-A-999
 	minables neodymium 50 1.3
 	minables gold 20 1.32
 	minables iron 135 1.1
-	haze _menu/haze
-	fleet "Small Thi Transport" 200
-	fleet "Large Western Thi Traders" 900
-	fleet "Small Thi Ancestral" 600
-	fleet "Small Thi Traders" 300
-	fleet "Large Thi Traders" 500
-	fleet "Thi Patrol" 250
-	fleet "Thi Warfleet" 750
-	fleet "Large Thi Transport" 950
-	habitable 2500
-	belt 2000
 	trade Clothing 137
 	trade Electronics 803
 	trade Equipment 669
@@ -330,6 +322,14 @@ system Ott-A-999
 	trade Medical 467
 	trade Metal 356
 	trade Plastic 498
+	fleet "Small Thi Transport" 200
+	fleet "Large Western Thi Traders" 900
+	fleet "Small Thi Ancestral" 600
+	fleet "Small Thi Traders" 300
+	fleet "Large Thi Traders" 500
+	fleet "Thi Patrol" 250
+	fleet "Thi Warfleet" 750
+	fleet "Large Thi Transport" 950
 	object
 		sprite star/f3
 		distance 150
@@ -422,6 +422,8 @@ system Ott-A-999
 system Polaq-E-079
 	pos 119.19444 -1247.4444
 	government Thi-Ruun
+	habitable 1641.25
+	belt 1529
 	link Gnoki-E-041
 	link Yjkil-E-041
 	asteroids "large rock" 1 3.876
@@ -431,15 +433,6 @@ system Polaq-E-079
 	minables tungsten 5 5.5887299
 	minables aluminum 32 6.6162542
 	minables platinum 8 5.1710371
-	fleet "Small Thi Transport" 300
-	fleet "Small Thi Traders" 300
-	fleet "Small Thi Ancestral" 700
-	fleet "Large Thi Traders" 1000
-	fleet "Thi Patrol" 350
-	fleet "Thi Warfleet" 975
-	fleet "Large Thi Transport" 1100
-	habitable 1641.25
-	belt 1529
 	trade Clothing 383
 	trade Electronics 803
 	trade Equipment 345
@@ -450,6 +443,13 @@ system Polaq-E-079
 	trade Medical 656
 	trade Metal 556
 	trade Plastic 285
+	fleet "Small Thi Transport" 300
+	fleet "Small Thi Traders" 300
+	fleet "Small Thi Ancestral" 700
+	fleet "Large Thi Traders" 1000
+	fleet "Thi Patrol" 350
+	fleet "Thi Warfleet" 975
+	fleet "Large Thi Transport" 1100
 	object
 		sprite star/k8
 		distance 100
@@ -507,6 +507,8 @@ system Torr-E-004
 system Polaq-C-093
 	pos -348.66667 -1180.2778
 	government Thi-Ruun
+	habitable 1100
+	belt 1453
 	link Polaq-C-100
 	link Torr-AC-009
 	link Yjkil-C-044
@@ -519,16 +521,6 @@ system Polaq-C-093
 	minables aluminum 1 6.6884045
 	minables silver 3 5.3805145
 	minables lead 2 6.4231935
-	fleet "Small Thi Transport" 300
-	fleet "Large Western Thi Traders" 1200
-	fleet "Small Thi Ancestral" 725
-	fleet "Small Thi Traders" 300
-	fleet "Large Thi Traders" 500
-	fleet "Thi Patrol" 375
-	fleet "Thi Warfleet" 975
-	fleet "Large Thi Transport" 1000
-	habitable 1100
-	belt 1453
 	trade Clothing 220
 	trade Electronics 807
 	trade Equipment 516
@@ -539,6 +531,14 @@ system Polaq-C-093
 	trade Medical 598
 	trade Metal 307
 	trade Plastic 536
+	fleet "Small Thi Transport" 300
+	fleet "Large Western Thi Traders" 1200
+	fleet "Small Thi Ancestral" 725
+	fleet "Small Thi Traders" 300
+	fleet "Large Thi Traders" 500
+	fleet "Thi Patrol" 375
+	fleet "Thi Warfleet" 975
+	fleet "Large Thi Transport" 1000
 	object
 		sprite star/a8
 		period 10
@@ -582,19 +582,11 @@ system Polaq-C-093
 system Torr-AC-009
 	pos -265.66666 -1191.2778
 	government Thi-Ruun
+	habitable 1731.2
 	link Ott-A-999
 	link Polaq-A-102
 	link Polaq-C-093
 	link Yjkil-A-011
-	fleet "Small Thi Transport" 300
-	fleet "Large Western Thi Traders" 1000
-	fleet "Small Thi Ancestral" 725
-	fleet "Small Thi Traders" 325
-	fleet "Large Thi Traders" 525
-	fleet "Thi Patrol" 325
-	fleet "Thi Warfleet" 875
-	fleet "Large Thi Transport" 1000
-	habitable 1731.2
 	trade Clothing 183
 	trade Electronics 765
 	trade Equipment 634
@@ -605,6 +597,14 @@ system Torr-AC-009
 	trade Medical 618
 	trade Metal 332
 	trade Plastic 512
+	fleet "Small Thi Transport" 300
+	fleet "Large Western Thi Traders" 1000
+	fleet "Small Thi Ancestral" 725
+	fleet "Small Thi Traders" 325
+	fleet "Large Thi Traders" 525
+	fleet "Thi Patrol" 325
+	fleet "Thi Warfleet" 875
+	fleet "Large Thi Transport" 1000
 	object
 		sprite star/o8
 		period 10
@@ -644,8 +644,8 @@ system Torr-AC-009
 system Tarmi-Bii-041
 	pos -26.527772 -840.3333
 	government Thi-Ruun
-	link Torr-Bii-002
 	habitable 3276.8
+	link Torr-Bii-002
 	object
 		sprite star/o0
 		period 10
@@ -689,6 +689,8 @@ system Yjkil-AB-019
 system Gnoki-C-052
 	pos -466.30556 -1164.3055
 	government Sakaar-Ruun
+	habitable 1843.2
+	belt 1048
 	link Gnoki-CF-044
 	link Torr-C-006
 	link Torr-CD-010
@@ -702,17 +704,6 @@ system Gnoki-C-052
 	minables uranium 22 7.162653
 	minables platinum 64 6.142679
 	minables copper 22 5.872462
-	fleet "Sakaar'Ruun (Small)" 225
-	fleet "Small Thi Transport" 240
-	fleet "Small Thi Traders" 320
-	fleet "Large Thi Traders" 950
-	fleet "Small Thi Ancestral" 760
-	fleet "Large Western Thi Traders" 850
-	fleet "Thi Patrol" 375
-	fleet "Thi Warfleet" 1100
-	fleet "Large Thi Transport" 775
-	habitable 1843.2
-	belt 1048
 	trade Clothing 256
 	trade Electronics 779
 	trade Equipment 627
@@ -723,6 +714,15 @@ system Gnoki-C-052
 	trade Medical 519
 	trade Metal 300
 	trade Plastic 375
+	fleet "Sakaar'Ruun (Small)" 225
+	fleet "Small Thi Transport" 240
+	fleet "Small Thi Traders" 320
+	fleet "Large Thi Traders" 950
+	fleet "Small Thi Ancestral" 760
+	fleet "Large Western Thi Traders" 850
+	fleet "Thi Patrol" 375
+	fleet "Thi Warfleet" 1100
+	fleet "Large Thi Transport" 775
 	object
 		sprite star/o5
 		period 10
@@ -769,19 +769,11 @@ system Gnoki-Bii-039
 system Yjkil-A-011
 	pos -228.55556 -1230.5278
 	government Thi-Ruun
+	habitable 8792.2
 	link Ott-A-999
 	link Polaq-A-094
 	link Polaq-A-102
 	link Torr-AC-009
-	fleet "Small Thi Transport" 300
-	fleet "Large Western Thi Traders" 1500
-	fleet "Small Thi Ancestral" 750
-	fleet "Small Thi Traders" 300
-	fleet "Large Thi Traders" 500
-	fleet "Thi Patrol" 300
-	fleet "Thi Warfleet" 800
-	fleet "Large Thi Transport" 1050
-	habitable 8792.2
 	trade Clothing 149
 	trade Electronics 776
 	trade Equipment 653
@@ -792,6 +784,14 @@ system Yjkil-A-011
 	trade Medical 475
 	trade Metal 398
 	trade Plastic 505
+	fleet "Small Thi Transport" 300
+	fleet "Large Western Thi Traders" 1500
+	fleet "Small Thi Ancestral" 750
+	fleet "Small Thi Traders" 300
+	fleet "Large Thi Traders" 500
+	fleet "Thi Patrol" 300
+	fleet "Thi Warfleet" 800
+	fleet "Large Thi Transport" 1050
 	object
 		sprite star/g5
 		period 10
@@ -839,6 +839,8 @@ system Yjkil-A-011
 system Polaq-C-100
 	pos -423.33333 -1127.6111
 	government Sakaar-Ruun
+	habitable 1411.2
+	belt 1343
 	link Polaq-C-093
 	link Torr-CD-010
 	link Yjkil-C-044
@@ -851,16 +853,6 @@ system Polaq-C-100
 	minables gold 7 2.2855838
 	minables titanium 22 1.5650283
 	minables silver 11 1.4915959
-	fleet "Sakaar'Ruun (Small)" 210
-	fleet "Small Thi Transport" 600
-	fleet "Large Western Thi Traders" 1800
-	fleet "Small Thi Ancestral" 750
-	fleet "Small Thi Traders" 400
-	fleet "Large Thi Traders" 800
-	fleet "Thi Patrol" 350
-	fleet "Thi Warfleet" 950
-	habitable 1411.2
-	belt 1343
 	trade Clothing 203
 	trade Electronics 806
 	trade Equipment 566
@@ -871,6 +863,14 @@ system Polaq-C-100
 	trade Medical 812
 	trade Metal 322
 	trade Plastic 524
+	fleet "Sakaar'Ruun (Small)" 210
+	fleet "Small Thi Transport" 600
+	fleet "Large Western Thi Traders" 1800
+	fleet "Small Thi Ancestral" 750
+	fleet "Small Thi Traders" 400
+	fleet "Large Thi Traders" 800
+	fleet "Thi Patrol" 350
+	fleet "Thi Warfleet" 950
 	object
 		sprite star/o8
 		period 10
@@ -907,6 +907,8 @@ system Ezrata-E-007
 system Yjkil-C-044
 	pos -453.41666 -1214.0834
 	government Sakaar-Ruun
+	habitable 62.6
+	belt 1529
 	link Gnoki-C-052
 	link Gnoki-CF-044
 	link Polaq-C-093
@@ -918,17 +920,6 @@ system Yjkil-C-044
 	minables tungsten 5 5.5887299
 	minables aluminum 32 6.6162542
 	minables platinum 8 5.1710371
-	fleet "Sakaar'Ruun (Small)" 325
-	fleet "Small Thi Transport" 300
-	fleet "Small Thi Traders" 350
-	fleet "Large Thi Traders" 950
-	fleet "Small Thi Ancestral" 600
-	fleet "Large Western Thi Traders" 850
-	fleet "Thi Patrol" 350
-	fleet "Thi Warfleet" 1050
-	fleet "Large Thi Transport" 1300
-	habitable 62.6
-	belt 1529
 	trade Clothing 193
 	trade Electronics 817
 	trade Equipment 620
@@ -939,6 +930,15 @@ system Yjkil-C-044
 	trade Medical 615
 	trade Metal 342
 	trade Plastic 469
+	fleet "Sakaar'Ruun (Small)" 325
+	fleet "Small Thi Transport" 300
+	fleet "Small Thi Traders" 350
+	fleet "Large Thi Traders" 950
+	fleet "Small Thi Ancestral" 600
+	fleet "Large Western Thi Traders" 850
+	fleet "Thi Patrol" 350
+	fleet "Thi Warfleet" 1050
+	fleet "Large Thi Transport" 1300
 	object
 		sprite star/g-dwarf
 		distance 49.134185
@@ -984,6 +984,8 @@ system Yjkil-C-044
 system Polaq-A-102
 	pos -184.75 -1200.6667
 	government Thi-Ruun
+	habitable 900
+	belt 1178
 	link Polaq-A-096
 	link Torr-AC-009
 	link Yjkil-A-011
@@ -993,16 +995,6 @@ system Polaq-A-102
 	asteroids "medium metal" 1 2.65
 	minables lead 13 5.6358031
 	minables titanium 37 5.82297
-	fleet "Small Thi Transport" 330
-	fleet "Large Western Thi Traders" 3060
-	fleet "Small Thi Ancestral" 700
-	fleet "Small Thi Traders" 340
-	fleet "Large Thi Traders" 500
-	fleet "Thi Patrol" 275
-	fleet "Thi Warfleet" 900
-	fleet "Large Thi Transport" 1100
-	habitable 900
-	belt 1178
 	trade Clothing 165
 	trade Electronics 804
 	trade Equipment 619
@@ -1013,6 +1005,14 @@ system Polaq-A-102
 	trade Medical 489
 	trade Metal 341
 	trade Plastic 529
+	fleet "Small Thi Transport" 330
+	fleet "Large Western Thi Traders" 3060
+	fleet "Small Thi Ancestral" 700
+	fleet "Small Thi Traders" 340
+	fleet "Large Thi Traders" 500
+	fleet "Thi Patrol" 275
+	fleet "Thi Warfleet" 900
+	fleet "Large Thi Transport" 1100
 	object
 		sprite star/f3
 		period 10
@@ -1089,6 +1089,8 @@ system Irnell-Bii-029
 system Yjkil-E-041
 	pos 123.13889 -1225.3611
 	government Thi-Ruun
+	habitable 3276.8
+	belt 1013
 	link Gnoki-E-041
 	link Polaq-E-079
 	link Torr-ABiiE-006
@@ -1099,15 +1101,6 @@ system Yjkil-E-041
 	asteroids "medium metal" 55 0.795
 	asteroids "large metal" 9 1.005
 	minables gold 9 1.3121546
-	fleet "Small Thi Transport" 300
-	fleet "Small Thi Ancestral" 500
-	fleet "Small Thi Traders" 325
-	fleet "Large Thi Traders" 550
-	fleet "Thi Patrol" 300
-	fleet "Thi Warfleet" 900
-	fleet "Large Thi Transport" 1150
-	habitable 3276.8
-	belt 1013
 	trade Clothing 297
 	trade Electronics 765
 	trade Equipment 508
@@ -1118,6 +1111,13 @@ system Yjkil-E-041
 	trade Medical 615
 	trade Metal 448
 	trade Plastic 413
+	fleet "Small Thi Transport" 300
+	fleet "Small Thi Ancestral" 500
+	fleet "Small Thi Traders" 325
+	fleet "Large Thi Traders" 550
+	fleet "Thi Patrol" 300
+	fleet "Thi Warfleet" 900
+	fleet "Large Thi Transport" 1150
 	object
 		sprite star/o0
 		period 10
@@ -1153,6 +1153,8 @@ system Yjkil-E-041
 system Torr-C-006
 	pos -496.63888 -1144.8056
 	government Thi-Ruun
+	habitable 500
+	belt 1469
 	link Gnoki-C-052
 	link Gnoki-CF-044
 	link Torr-CD-010
@@ -1166,16 +1168,6 @@ system Torr-C-006
 	minables aluminum 3 1.7456319
 	minables copper 9 2.9275054
 	minables titanium 3 1.6648731
-	fleet "Small Thi Transport" 300
-	fleet "Small Thi Traders" 300
-	fleet "Large Thi Traders" 750
-	fleet "Small Thi Ancestral" 900
-	fleet "Large Western Thi Traders" 700
-	fleet "Thi Patrol" 350
-	fleet "Thi Warfleet" 1300
-	fleet "Large Thi Transport" 1200
-	habitable 500
-	belt 1469
 	trade Clothing 257
 	trade Electronics 720
 	trade Equipment 654
@@ -1186,6 +1178,14 @@ system Torr-C-006
 	trade Medical 521
 	trade Metal 246
 	trade Plastic 384
+	fleet "Small Thi Transport" 300
+	fleet "Small Thi Traders" 300
+	fleet "Large Thi Traders" 750
+	fleet "Small Thi Ancestral" 900
+	fleet "Large Western Thi Traders" 700
+	fleet "Thi Patrol" 350
+	fleet "Thi Warfleet" 1300
+	fleet "Large Thi Transport" 1200
 	object
 		sprite star/f0
 		period 10
@@ -1236,9 +1236,9 @@ system Torr-G-004
 system Nosfutar
 	pos -1119.6111 -1235.5277
 	government Uninhabited
-	minables yottrite 7 5
 	habitable 4500
 	belt 900
+	minables yottrite 7 5
 	object
 		sprite star/nova
 	object
@@ -1247,6 +1247,8 @@ system Nosfutar
 system Gnoki-D-051
 	pos -184.69444 -949.63886
 	government Kelaar-Ruun
+	habitable 9181.25
+	belt 1661
 	link Gnoki-BiD-041
 	link Torr-D-012
 	asteroids "small rock" 2 2.1888
@@ -1257,17 +1259,6 @@ system Gnoki-D-051
 	asteroids "large metal" 8 3.5328
 	minables iron 3 4.8063572
 	minables lead 12 3.602555
-	fleet "Kelaar'Ruun (Small)" 600
-	fleet "Small Thi Transport" 300
-	fleet "Small Thi Traders" 300
-	fleet "Large Thi Traders" 750
-	fleet "Small Thi Ancestral" 700
-	fleet "Large Western Thi Traders" 2800
-	fleet "Thi Patrol" 325
-	fleet "Thi Warfleet" 1050
-	fleet "Large Thi Transport" 975
-	habitable 9181.25
-	belt 1661
 	trade Clothing 292
 	trade Electronics 824
 	trade Equipment 679
@@ -1278,6 +1269,15 @@ system Gnoki-D-051
 	trade Medical 546
 	trade Metal 217
 	trade Plastic 534
+	fleet "Kelaar'Ruun (Small)" 600
+	fleet "Small Thi Transport" 300
+	fleet "Small Thi Traders" 300
+	fleet "Large Thi Traders" 750
+	fleet "Small Thi Ancestral" 700
+	fleet "Large Western Thi Traders" 2800
+	fleet "Thi Patrol" 325
+	fleet "Thi Warfleet" 1050
+	fleet "Large Thi Transport" 975
 	object
 		sprite star/k0
 		period 10
@@ -1313,6 +1313,8 @@ system Gnoki-D-051
 system Polaq-D-091
 	pos -349.02778 -1096.2777
 	government Kelaar-Ruun
+	habitable 1600
+	belt 1768
 	link Irnell-D-022
 	link Torr-D-012
 	link Yjkil-D-053
@@ -1323,17 +1325,6 @@ system Polaq-D-091
 	minables titanium 13 5.4770077
 	minables aluminum 72 8.462131
 	minables iron 50 9.0889555
-	fleet "Kelaar'Ruun (Small)" 150
-	fleet "Small Thi Transport" 600
-	fleet "Large Western Thi Traders" 800
-	fleet "Small Thi Ancestral" 800
-	fleet "Small Thi Traders" 700
-	fleet "Large Thi Traders" 800
-	fleet "Thi Patrol" 400
-	fleet "Thi Warfleet" 950
-	fleet "Large Thi Transport" 1700
-	habitable 1600
-	belt 1768
 	trade Clothing 215
 	trade Electronics 683
 	trade Equipment 595
@@ -1344,6 +1335,15 @@ system Polaq-D-091
 	trade Medical 300
 	trade Metal 214
 	trade Plastic 326
+	fleet "Kelaar'Ruun (Small)" 150
+	fleet "Small Thi Transport" 600
+	fleet "Large Western Thi Traders" 800
+	fleet "Small Thi Ancestral" 800
+	fleet "Small Thi Traders" 700
+	fleet "Large Thi Traders" 800
+	fleet "Thi Patrol" 400
+	fleet "Thi Warfleet" 950
+	fleet "Large Thi Transport" 1700
 	object
 		sprite star/f5-old
 		period 10
@@ -1383,6 +1383,8 @@ system Torr-E-011
 system Torr-CD-011
 	pos -538.30555 -1064.0555
 	government Thi-Ruun
+	habitable 1306.45
+	belt 1909
 	link Torr-C-006
 	link Torr-CD-010
 	link Torr-D-011
@@ -1393,16 +1395,6 @@ system Torr-CD-011
 	asteroids "large metal" 7 1.848
 	minables silicon 19 4.4077927
 	minables lead 54 4.6773169
-	fleet "Small Thi Transport" 300
-	fleet "Small Thi Traders" 300
-	fleet "Large Thi Traders" 800
-	fleet "Large Western Thi Traders" 725
-	fleet "Small Thi Ancestral" 850
-	fleet "Thi Patrol" 375
-	fleet "Thi Warfleet" 1025
-	fleet "Large Thi Transport" 1150
-	habitable 1306.45
-	belt 1909
 	trade Clothing 263
 	trade Electronics 722
 	trade Equipment 582
@@ -1413,6 +1405,14 @@ system Torr-CD-011
 	trade Medical 546
 	trade Metal 236
 	trade Plastic 320
+	fleet "Small Thi Transport" 300
+	fleet "Small Thi Traders" 300
+	fleet "Large Thi Traders" 800
+	fleet "Large Western Thi Traders" 725
+	fleet "Small Thi Ancestral" 850
+	fleet "Thi Patrol" 375
+	fleet "Thi Warfleet" 1025
+	fleet "Large Thi Transport" 1150
 	object
 		sprite star/k-dwarf
 		distance 144.51376
@@ -1458,6 +1458,8 @@ system Torr-CD-011
 system Yjkil-D-053
 	pos -386 -995.58329
 	government Kelaar-Ruun
+	habitable 4160
+	belt 1529
 	link Gnoki-D-042
 	link Irnell-D-022
 	link Polaq-D-091
@@ -1470,17 +1472,6 @@ system Yjkil-D-053
 	minables tungsten 5 5.5887299
 	minables aluminum 32 6.6162542
 	minables platinum 8 5.1710371
-	fleet "Kelaar'Ruun (Small)" 300
-	fleet "Small Thi Transport" 350
-	fleet "Small Thi Traders" 400
-	fleet "Large Thi Traders" 900
-	fleet "Small Thi Ancestral" 700
-	fleet "Large Western Thi Traders" 1000
-	fleet "Thi Patrol" 350
-	fleet "Thi Warfleet" 850
-	fleet "Large Thi Transport" 1200
-	habitable 4160
-	belt 1529
 	trade Clothing 300
 	trade Electronics 777
 	trade Equipment 503
@@ -1491,6 +1482,15 @@ system Yjkil-D-053
 	trade Medical 441
 	trade Metal 216
 	trade Plastic 395
+	fleet "Kelaar'Ruun (Small)" 300
+	fleet "Small Thi Transport" 350
+	fleet "Small Thi Traders" 400
+	fleet "Large Thi Traders" 900
+	fleet "Small Thi Ancestral" 700
+	fleet "Large Western Thi Traders" 1000
+	fleet "Thi Patrol" 350
+	fleet "Thi Warfleet" 850
+	fleet "Large Thi Transport" 1200
 	object
 		sprite star/giant
 		period 124.28654
@@ -1549,21 +1549,12 @@ system Gnoki-D-042
 system Torr-CD-010
 	pos -442.58333 -1088.2777
 	government Sakaar-Ruun
+	habitable 2163.2
 	link Gnoki-C-052
 	link Irnell-D-022
 	link Polaq-C-100
 	link Torr-C-006
 	link Torr-CD-011
-	fleet "Sakaar'Ruun (Small)" 225
-	fleet "Small Thi Transport" 700
-	fleet "Small Thi Traders" 450
-	fleet "Large Thi Traders" 1200
-	fleet "Small Thi Ancestral" 3000
-	fleet "Large Western Thi Traders" 2400
-	fleet "Thi Patrol" 300
-	fleet "Thi Warfleet" 1000
-	fleet "Large Thi Transport" 4000
-	habitable 2163.2
 	trade Clothing 236
 	trade Electronics 723
 	trade Equipment 610
@@ -1574,6 +1565,15 @@ system Torr-CD-010
 	trade Medical 548
 	trade Metal 256
 	trade Plastic 395
+	fleet "Sakaar'Ruun (Small)" 225
+	fleet "Small Thi Transport" 700
+	fleet "Small Thi Traders" 450
+	fleet "Large Thi Traders" 1200
+	fleet "Small Thi Ancestral" 3000
+	fleet "Large Western Thi Traders" 2400
+	fleet "Thi Patrol" 300
+	fleet "Thi Warfleet" 1000
+	fleet "Large Thi Transport" 4000
 	object
 		sprite star/o3
 		period 10
@@ -1622,6 +1622,8 @@ system Torr-D-012
 system Gnoki-F-046
 	pos -596.44444 -1188.1944
 	government Thi-Ruun
+	habitable 2560
+	belt 1872
 	link Ezrata-F-002
 	link Gnoki-CF-044
 	link Nhili-F-101
@@ -1635,16 +1637,6 @@ system Gnoki-F-046
 	asteroids "large metal" 44 2.716
 	minables tungsten 23 3.6756252
 	minables aluminum 29 3.6087171
-	fleet "Small Thi Transport" 450
-	fleet "Large Western Thi Traders" 2400
-	fleet "Small Thi Ancestral" 900
-	fleet "Small Thi Traders" 450
-	fleet "Large Thi Traders" 1200
-	fleet "Thi Patrol" 400
-	fleet "Thi Warfleet" 900
-	fleet "Large Thi Transport" 1800
-	habitable 2560
-	belt 1872
 	trade Clothing 193
 	trade Electronics 914
 	trade Equipment 682
@@ -1655,6 +1647,14 @@ system Gnoki-F-046
 	trade Medical 395
 	trade Metal 327
 	trade Plastic 378
+	fleet "Small Thi Transport" 450
+	fleet "Large Western Thi Traders" 2400
+	fleet "Small Thi Ancestral" 900
+	fleet "Small Thi Traders" 450
+	fleet "Large Thi Traders" 1200
+	fleet "Thi Patrol" 400
+	fleet "Thi Warfleet" 900
+	fleet "Large Thi Transport" 1800
 	object
 		sprite star/b0
 		distance 131.5
@@ -1716,6 +1716,8 @@ system Gnoki-F-046
 system Gnoki-CF-044
 	pos -485.33333 -1185.5277
 	government Sakaar-Ruun
+	habitable 9401.8
+	belt 1211
 	link Gnoki-C-052
 	link Gnoki-F-046
 	link Torr-C-006
@@ -1730,9 +1732,6 @@ system Gnoki-CF-044
 	minables neodymium 23 7.27173
 	minables tungsten 59 4.1354348
 	minables aluminum 111 1.385
-	fleet "Sakaar'Ruun (Small)" 1100
-	habitable 9401.8
-	belt 1211
 	trade Clothing 213
 	trade Electronics 802
 	trade Equipment 699
@@ -1743,6 +1742,7 @@ system Gnoki-CF-044
 	trade Medical 430
 	trade Metal 264
 	trade Plastic 383
+	fleet "Sakaar'Ruun (Small)" 1100
 	object
 		sprite star/o0
 		period 10
@@ -1782,6 +1782,7 @@ system Gnoki-CF-044
 system Polaq-D-111
 	pos -474.58333 -956.69446
 	government Thi-Ruun
+	belt 1529
 	link Torr-D-007
 	link Torr-D-011
 	link Yjkil-D-053
@@ -1793,15 +1794,6 @@ system Polaq-D-111
 	minables tungsten 5 5.5887299
 	minables aluminum 32 6.6162542
 	minables platinum 8 5.1710371
-	fleet "Small Thi Transport" 400
-	fleet "Large Western Thi Traders" 900
-	fleet "Small Thi Ancestral" 750
-	fleet "Small Thi Traders" 425
-	fleet "Thi Patrol" 400
-	fleet "Thi Warfleet" 1000
-	fleet "Large Thi Traders" 950
-	fleet "Large Thi Transport" 1000
-	belt 1529
 	trade Clothing 438
 	trade Electronics 844
 	trade Equipment 420
@@ -1812,6 +1804,14 @@ system Polaq-D-111
 	trade Medical 540
 	trade Metal 227
 	trade Plastic 372
+	fleet "Small Thi Transport" 400
+	fleet "Large Western Thi Traders" 900
+	fleet "Small Thi Ancestral" 750
+	fleet "Small Thi Traders" 425
+	fleet "Thi Patrol" 400
+	fleet "Thi Warfleet" 1000
+	fleet "Large Thi Traders" 950
+	fleet "Large Thi Transport" 1000
 	object
 		sprite star/o0
 		distance 165.41579
@@ -1865,6 +1865,8 @@ system Torr-F-015
 system Yjkil-DG-048
 	pos -656.77778 -926.55553
 	government Thi-Ruun
+	habitable 500
+	belt 1156
 	link Polaq-D-111
 	link Torr-D-011
 	link Torr-G-004
@@ -1877,16 +1879,6 @@ system Yjkil-DG-048
 	minables iron 7 4.017208
 	minables tungsten 15 3.730662
 	minables gold 7 3.56096
-	fleet "Small Thi Transport" 300
-	fleet "Small Thi Traders" 300
-	fleet "Large Thi Traders" 1000
-	fleet "Small Thi Ancestral" 650
-	fleet "Large Western Thi Traders" 850
-	fleet "Thi Patrol" 300
-	fleet "Thi Warfleet" 1500
-	fleet "Large Thi Transport" 1600
-	habitable 500
-	belt 1156
 	trade Clothing 422
 	trade Electronics 849
 	trade Equipment 506
@@ -1897,6 +1889,14 @@ system Yjkil-DG-048
 	trade Medical 510
 	trade Metal 165
 	trade Plastic 340
+	fleet "Small Thi Transport" 300
+	fleet "Small Thi Traders" 300
+	fleet "Large Thi Traders" 1000
+	fleet "Small Thi Ancestral" 650
+	fleet "Large Western Thi Traders" 850
+	fleet "Thi Patrol" 300
+	fleet "Thi Warfleet" 1500
+	fleet "Large Thi Transport" 1600
 	object
 		sprite star/a8
 		period 10
@@ -1928,14 +1928,10 @@ system Yjkil-DG-048
 system Ezrata-D-005
 	pos -426.11111 -772.77775
 	government Thi-Ruun
-	link Torr-D-007
-	asteroids "large metal" 1 3.542
-	fleet "Small Thi Traders" 1200
-	fleet "Small Thi Transport" 800
-	fleet "Small Thi Ancestral" 2400
-	fleet "Thi Patrol" 800
 	habitable 500
 	belt 1140
+	link Torr-D-007
+	asteroids "large metal" 1 3.542
 	trade Clothing 285
 	trade Electronics 613
 	trade Equipment 355
@@ -1946,6 +1942,10 @@ system Ezrata-D-005
 	trade Medical 729
 	trade Metal 196
 	trade Plastic 513
+	fleet "Small Thi Traders" 1200
+	fleet "Small Thi Transport" 800
+	fleet "Small Thi Ancestral" 2400
+	fleet "Thi Patrol" 800
 	object
 		sprite star/a5
 		period 10
@@ -1985,6 +1985,8 @@ system Ezrata-D-005
 system Torr-D-007
 	pos -543.44444 -856.7777
 	government Thi-Ruun
+	habitable 500
+	belt 1380
 	link Ezrata-D-005
 	link Polaq-D-111
 	asteroids "small rock" 15 4.2408
@@ -1994,15 +1996,6 @@ system Torr-D-007
 	asteroids "large metal" 5 5.4312
 	minables uranium 14 7.9063917
 	minables silicon 14 7.5951874
-	fleet "Small Thi Transport" 500
-	fleet "Small Thi Traders" 550
-	fleet "Small Thi Ancestral" 1200
-	fleet "Large Thi Traders" 2000
-	fleet "Large Western Thi Traders" 2000
-	fleet "Thi Patrol" 700
-	fleet "Thi Warfleet" 2500
-	habitable 500
-	belt 1380
 	trade Clothing 378
 	trade Electronics 729
 	trade Equipment 337
@@ -2013,6 +2006,13 @@ system Torr-D-007
 	trade Medical 646
 	trade Metal 215
 	trade Plastic 523
+	fleet "Small Thi Transport" 500
+	fleet "Small Thi Traders" 550
+	fleet "Small Thi Ancestral" 1200
+	fleet "Large Thi Traders" 2000
+	fleet "Large Western Thi Traders" 2000
+	fleet "Thi Patrol" 700
+	fleet "Thi Warfleet" 2500
 	object
 		sprite star/a5
 		period 10
@@ -2067,6 +2067,8 @@ system Polaq-F-098
 system Irnell-D-022
 	pos -404.83333 -1024.5555
 	government Thi-Ruun
+	habitable 3276.8
+	belt 1726
 	link Polaq-D-091
 	link Torr-CD-010
 	link Yjkil-D-053
@@ -2078,17 +2080,6 @@ system Irnell-D-022
 	asteroids "large metal" 14 2.2192
 	minables lead 13 2.7830135
 	minables tungsten 22 2.9061557
-	fleet "Kelaar'Ruun (Small)" 300
-	fleet "Sakaar'Ruun (Small)" 300
-	fleet "Small Thi Transport" 6000
-	fleet "Large Western Thi Traders" 5500
-	fleet "Small Thi Traders" 4500
-	fleet "Large Thi Traders" 5500
-	fleet "Thi Patrol" 350
-	fleet "Thi Warfleet" 950
-	fleet "Large Thi Transport" 18500
-	habitable 3276.8
-	belt 1726
 	trade Clothing 198
 	trade Electronics 682
 	trade Equipment 645
@@ -2099,6 +2090,15 @@ system Irnell-D-022
 	trade Medical 321
 	trade Metal 209
 	trade Plastic 295
+	fleet "Kelaar'Ruun (Small)" 300
+	fleet "Sakaar'Ruun (Small)" 300
+	fleet "Small Thi Transport" 6000
+	fleet "Large Western Thi Traders" 5500
+	fleet "Small Thi Traders" 4500
+	fleet "Large Thi Traders" 5500
+	fleet "Thi Patrol" 350
+	fleet "Thi Warfleet" 950
+	fleet "Large Thi Transport" 18500
 	object
 		sprite star/o0
 		period 10
@@ -2135,7 +2135,12 @@ planet Praq-Ottalia
 	security 1
 
 planet Praq-Ern-Kellia
+	landscape land/station2
+	description "Ern Kellia is a massive city and shipyard, built as a central hub for all Thi'Ruun Commerce in their region of space. Millenia of being stuck in a single star System forced the Thi'Ruun to make effective use of all possible space, and their great cloud cities are a shining display of this."
+	spaceport "The spaceport here puts even the greatest shipyards humanity has built to shame. Though not quite a complete ring around the planet yet."
+	government Thi-Ruun
 	shipyard "Kalore-Illoca Advanced"
+	shipyard "Laxet Basics"
 	shipyard Pollo-Talia
 	shipyard "Relac Advanced"
 	shipyard "Relac Basics"
@@ -2149,10 +2154,6 @@ planet Praq-Ern-Kellia
 	outfitter "thi-ruun advanced"
 	outfitter "thi-ruun basics"
 	outfitter "thi-ruun intermediate"
-	landscape land/station2
-	description "Ern Kellia is a massive city and shipyard, built as a central hub for all Thi'Ruun Commerce in their region of space. Millenia of being stuck in a single star System forced the Thi'Ruun to make effective use of all possible space, and their great cloud cities are a shining display of this."
-	spaceport "The spaceport here puts even the greatest shipyards humanity has built to shame. Though not quite a complete ring around the planet yet."
-	government Thi-Ruun
 
 system Torr-Bi-003
 	pos -156.72222 -962.94449
@@ -2164,6 +2165,8 @@ system Torr-Bi-003
 system Tarmi-Bi-037
 	pos -177.61111 -879.94449
 	government Thi-Ruun
+	habitable 636.25
+	belt 1414
 	link Gnoki-BiD-041
 	link Torr-Bi-003
 	asteroids "medium rock" 10 4.8048
@@ -2171,15 +2174,6 @@ system Tarmi-Bi-037
 	asteroids "small metal" 1 4.1184
 	asteroids "large metal" 2 3.3696
 	minables lead 4 6.3495245
-	fleet "Small Thi Traders" 325
-	fleet "Large Thi Transport" 1250
-	fleet "Small Thi Traders" 325
-	fleet "Large Thi Traders" 850
-	fleet "Small Thi Ancestral" 750
-	fleet "Thi Patrol" 350
-	fleet "Thi Warfleet" 1800
-	habitable 636.25
-	belt 1414
 	trade Clothing 304
 	trade Electronics 855
 	trade Equipment 704
@@ -2190,6 +2184,13 @@ system Tarmi-Bi-037
 	trade Medical 576
 	trade Metal 217
 	trade Plastic 491
+	fleet "Small Thi Traders" 325
+	fleet "Large Thi Transport" 1250
+	fleet "Small Thi Traders" 325
+	fleet "Large Thi Traders" 850
+	fleet "Small Thi Ancestral" 750
+	fleet "Thi Patrol" 350
+	fleet "Thi Warfleet" 1800
 	object
 		sprite star/a-dwarf
 		distance 123.13949
@@ -2223,17 +2224,10 @@ system Tarmi-Bi-037
 system Gnoki-BiD-041
 	pos -175.72222 -909.61116
 	government Thi-Ruun
+	habitable 820
 	link Gnoki-D-051
 	link Tarmi-Bi-037
 	link Torr-Bi-003
-	fleet "Small Thi Transport" 300
-	fleet "Small Thi Traders" 240
-	fleet "Large Thi Traders" 600
-	fleet "Thi Patrol" 350
-	fleet "Thi Warfleet" 900
-	fleet "Large Thi Transport" 900
-	fleet "Small Thi Ancestral" 700
-	habitable 820
 	trade Clothing 275
 	trade Electronics 823
 	trade Equipment 729
@@ -2244,6 +2238,13 @@ system Gnoki-BiD-041
 	trade Medical 534
 	trade Metal 219
 	trade Plastic 503
+	fleet "Small Thi Transport" 300
+	fleet "Small Thi Traders" 240
+	fleet "Large Thi Traders" 600
+	fleet "Thi Patrol" 350
+	fleet "Thi Warfleet" 900
+	fleet "Large Thi Transport" 900
+	fleet "Small Thi Ancestral" 700
 	object
 		sprite star/a8
 		period 10
@@ -2376,6 +2377,8 @@ system Tarmi-E-48
 system Torr-D-011
 	pos -585.97222 -1005.7778
 	government Thi-Ruun
+	habitable 2205
+	belt 1791
 	link Polaq-D-111
 	link Torr-CD-011
 	link Yjkil-DG-048
@@ -2386,16 +2389,6 @@ system Torr-D-011
 	asteroids "large metal" 16 3.3852
 	minables copper 18 3.9466106
 	minables tungsten 8 3.537772
-	fleet "Small Thi Transport" 300
-	fleet "Small Thi Traders" 300
-	fleet "Large Thi Traders" 800
-	fleet "Small Thi Ancestral" 475
-	fleet "Large Western Thi Traders" 500
-	fleet "Thi Patrol" 325
-	fleet "Thi Warfleet" 1000
-	fleet "Large Thi Transport" 1000
-	habitable 2205
-	belt 1791
 	trade Clothing 374
 	trade Electronics 796
 	trade Equipment 496
@@ -2406,6 +2399,14 @@ system Torr-D-011
 	trade Medical 565
 	trade Metal 192
 	trade Plastic 259
+	fleet "Small Thi Transport" 300
+	fleet "Small Thi Traders" 300
+	fleet "Large Thi Traders" 800
+	fleet "Small Thi Ancestral" 475
+	fleet "Large Western Thi Traders" 500
+	fleet "Thi Patrol" 325
+	fleet "Thi Warfleet" 1000
+	fleet "Large Thi Transport" 1000
 	object
 		sprite star/g0-old
 		period 10
@@ -2443,6 +2444,8 @@ system "Palfia Centauri"
 system Ktedono
 	pos -867.58334 -1135.7778
 	government Uninhabited
+	habitable 151.25
+	belt 1546
 	link Archap
 	link Wuqaskar
 	asteroids "small rock" 2 3.9284
@@ -2451,8 +2454,6 @@ system Ktedono
 	asteroids "small metal" 13 4.508
 	asteroids "large metal" 1 4.186
 	minables copper 3 6.9725271
-	habitable 151.25
-	belt 1546
 	object
 		sprite star/m8
 		period 10
@@ -2535,6 +2536,8 @@ system Oirio
 system Laq
 	pos -1051.7222 -1130.4167
 	government Uninhabited
+	habitable 681.25
+	belt 1453
 	link Buspira
 	link Esnit
 	link Oirio
@@ -2545,8 +2548,6 @@ system Laq
 	asteroids "large metal" 4 4.158
 	minables aluminum 3 10.167916
 	minables iron 7 9.6900905
-	habitable 681.25
-	belt 1453
 	trade Clothing 364
 	trade Electronics 713
 	trade Equipment 616
@@ -2601,6 +2602,8 @@ system Paloor
 system Torr-G-002
 	pos -549.13889 -681.38893
 	government Thi-Ruun
+	habitable 361.25
+	belt 1130
 	link Ezrata-G-008
 	link Yjkil-G-042
 	asteroids "medium rock" 10 4.785
@@ -2611,11 +2614,6 @@ system Torr-G-002
 	minables lead 1 7.702475
 	minables silicon 3 7.275125
 	minables titanium 1 9.4271375
-	fleet "Small Thi Traders" 3000
-	fleet "Small Thi Transport" 2500
-	fleet "Thi Patrol" 900
-	habitable 361.25
-	belt 1130
 	trade Clothing 270
 	trade Electronics 776
 	trade Equipment 667
@@ -2626,6 +2624,9 @@ system Torr-G-002
 	trade Medical 531
 	trade Metal 250
 	trade Plastic 509
+	fleet "Small Thi Traders" 3000
+	fleet "Small Thi Transport" 2500
+	fleet "Thi Patrol" 900
 	object
 		sprite star/k8
 		period 10
@@ -2668,6 +2669,8 @@ system Gnoki-G-043
 system Yjkil-G-042
 	pos -531.80556 -773.38893
 	government Thi-Ruun
+	habitable 6195.2
+	belt 1115
 	link Gnoki-G-043
 	link Torr-G-002
 	link Torr-G-003
@@ -2679,16 +2682,6 @@ system Yjkil-G-042
 	asteroids "large metal" 6 5.6028
 	minables iron 3 5.185557
 	minables aluminum 6 9.184176
-	fleet "Small Thi Transport" 1500
-	fleet "Large Western Thi Traders" 9000
-	fleet "Small Thi Ancestral" 12000
-	fleet "Small Thi Traders" 1200
-	fleet "Large Thi Traders" 6000
-	fleet "Thi Patrol" 900
-	fleet "Thi Warfleet" 7000
-	fleet "Large Thi Transport" 14000
-	habitable 6195.2
-	belt 1115
 	trade Clothing 197
 	trade Electronics 776
 	trade Equipment 638
@@ -2699,6 +2692,14 @@ system Yjkil-G-042
 	trade Medical 407
 	trade Metal 194
 	trade Plastic 456
+	fleet "Small Thi Transport" 1500
+	fleet "Large Western Thi Traders" 9000
+	fleet "Small Thi Ancestral" 12000
+	fleet "Small Thi Traders" 1200
+	fleet "Large Thi Traders" 6000
+	fleet "Thi Patrol" 900
+	fleet "Thi Warfleet" 7000
+	fleet "Large Thi Transport" 14000
 	object
 		sprite star/g-giant
 		period 10
@@ -2754,14 +2755,16 @@ system Yjkil-G-042
 system Torr-G-003
 	pos -632.25 -835.61116
 	government Thi-Ruun
+	habitable 3276.8
 	link Gnoki-G-043
 	link Torr-G-004
 	link Yjkil-G-042
-	habitable 3276.8
 
 system Buspira
 	pos -1116.6944 -1053.9723
 	government Uninhabited
+	habitable 753.8
+	belt 1098
 	link Laq
 	link Paloor
 	asteroids "small rock" 9 3.1806
@@ -2772,8 +2775,6 @@ system Buspira
 	asteroids "large metal" 44 5.022
 	minables lead 10 4.3975026
 	minables iron 24 7.1923598
-	habitable 753.8
-	belt 1098
 	object
 		sprite star/o-dwarf
 		distance 130.85699
@@ -2811,16 +2812,8 @@ system Buspira
 system Ezrata-F-002
 	pos -602.61111 -1169.0834
 	government Thi-Ruun
-	link Gnoki-F-046
-	fleet "Small Thi Transport" 900
-	fleet "Large Western Thi Traders" 2400
-	fleet "Small Thi Ancestral" 1000
-	fleet "Small Thi Traders" 800
-	fleet "Large Thi Traders" 1400
-	fleet "Thi Patrol" 600
-	fleet "Thi Warfleet" 2400
-	fleet "Large Thi Transport" 2000
 	habitable 1616.2
+	link Gnoki-F-046
 	trade Clothing 210
 	trade Electronics 884
 	trade Equipment 632
@@ -2831,6 +2824,14 @@ system Ezrata-F-002
 	trade Medical 446
 	trade Metal 312
 	trade Plastic 409
+	fleet "Small Thi Transport" 900
+	fleet "Large Western Thi Traders" 2400
+	fleet "Small Thi Ancestral" 1000
+	fleet "Small Thi Traders" 800
+	fleet "Large Thi Traders" 1400
+	fleet "Thi Patrol" 600
+	fleet "Thi Warfleet" 2400
+	fleet "Large Thi Transport" 2000
 	object
 		sprite star/k3
 		distance 187.69954
@@ -2912,6 +2913,8 @@ system Ezrata-F-002
 system Anticar
 	pos -983.80556 -1001.9723
 	government Uninhabited
+	habitable 850.45
+	belt 1397
 	link Oirio
 	asteroids "small rock" 13 3.6938
 	asteroids "medium rock" 70 3.3396
@@ -2921,8 +2924,6 @@ system Anticar
 	minables lead 18 5.7968015
 	minables copper 6 4.9839251
 	minables neodymium 9 5.1494429
-	habitable 850.45
-	belt 1397
 	object
 		sprite star/f-dwarf
 		distance 123.77824
@@ -2961,11 +2962,8 @@ system Qrurko
 system Ezrata-G-008
 	pos -563.36111 -646.27782
 	government Thi-Ruun
-	link Torr-G-002
-	fleet "Small Thi Transport" 6000
-	fleet "Small Thi Traders" 8000
-	fleet "Thi Patrol" 1000
 	habitable 1843.2
+	link Torr-G-002
 	trade Clothing 275
 	trade Electronics 823
 	trade Equipment 729
@@ -2976,6 +2974,9 @@ system Ezrata-G-008
 	trade Medical 534
 	trade Metal 221
 	trade Plastic 503
+	fleet "Small Thi Transport" 6000
+	fleet "Small Thi Traders" 8000
+	fleet "Thi Patrol" 1000
 	object
 		sprite star/o5
 		period 10
@@ -3015,11 +3016,11 @@ planet Thir-Pola
 	spaceport "Nestled delicately in the shelves of enormous pit mines, dozens of times larger than any mine humanity has dug, is Thir-Pola's spaceport. Amenities are dug into the walls of the old mines, leaving the open shelves free for ships to land."
 
 planet Thir-Kola
-	shipyard "Kalore-Illoca Advanced"
-	shipyard "Thi Basics"
 	landscape land/mfield3
 	description "A very well-developed cloud city world, Thir-Kola is notable for its noticeably higher population of Breeders than other Thi'Ruun planets. This comes naturally in such an urban setting; minerals from Thir-Pola are constantly in demand here, as the population of Thi'Ruun is continually increased within the many brood dens the Thi'Ruun use as nurseries."
 	spaceport "Like other Thi'Ruun cloud cities, the spaceport appears spartan from a distance, but is in fact festooned with technology to keep everything running smoothly. Despite the position in the most turbulent layers of Thir-Kola's atmosphere, the wind is dampened to a mere breeze, gently blowing across the spaceport."
+	shipyard "Kalore-Illoca Advanced"
+	shipyard "Thi Basics"
 
 planet Jerik-Supplana
 	description "In contrast to other Thi'Ruun core worlds, which tend to either provide mass housing or a key strategic point for mineral harvesting, Supplana has a sole primary export: Energy. By collecting geothermal energy from its geologically active moons, Supplana is able to account for the energy needs of billions of Thi'Ruun, both on- and off-world."
@@ -3028,6 +3029,8 @@ planet Jerik-Supplana
 system Nhili-F-101
 	pos -741.02778 -1204.1111
 	government Thi-Ruun
+	habitable 117964.8
+	belt 1220
 	link Gnoki-F-046
 	link Polaq-F-098
 	asteroids "small rock" 5 3.1416
@@ -3037,16 +3040,6 @@ system Nhili-F-101
 	asteroids "medium metal" 13 3.3726
 	minables neodymium 8 5.0181905
 	minables copper 18 4.5091406
-	fleet "Small Thi Transport" 600
-	fleet "Large Western Thi Traders" 3000
-	fleet "Small Thi Ancestral" 1200
-	fleet "Small Thi Traders" 750
-	fleet "Large Thi Traders" 900
-	fleet "Thi Patrol" 500
-	fleet "Thi Warfleet" 2200
-	fleet "Large Thi Transport" 4000
-	habitable 117964.8
-	belt 1220
 	trade Clothing 176
 	trade Electronics 904
 	trade Equipment 620
@@ -3057,6 +3050,14 @@ system Nhili-F-101
 	trade Medical 490
 	trade Metal 301
 	trade Plastic 493
+	fleet "Small Thi Transport" 600
+	fleet "Large Western Thi Traders" 3000
+	fleet "Small Thi Ancestral" 1200
+	fleet "Small Thi Traders" 750
+	fleet "Large Thi Traders" 900
+	fleet "Thi Patrol" 500
+	fleet "Thi Warfleet" 2200
+	fleet "Large Thi Transport" 4000
 	object
 		sprite star/m-supergiant
 		period 10
@@ -3121,10 +3122,13 @@ system "Gamma Cassiopeiae"
 	add link Kosach
 
 system Kosach
+	hidden
 	pos -35.916667 271.88889
 	government Syndicate
+	attributes core wormhole
+	habitable 392.5
+	belt 1693
 	link "Gamma Cassiopeiae"
-	hidden
 	asteroids "small rock" 3 8.265
 	asteroids "medium rock" 9 7.743
 	asteroids "large rock" 1 5.829
@@ -3134,12 +3138,6 @@ system Kosach
 	minables titanium 3 9.326649
 	minables lead 4 12.572238
 	minables aluminum 3 14.106645
-	fleet "Small Syndicate" 1800
-	fleet "Large Syndicate" 4200
-	fleet "Small Core Pirates" 2200
-	fleet "Large Core Pirates" 1900
-	habitable 392.5
-	belt 1693
 	trade Clothing 269
 	trade Electronics 673
 	trade Equipment 490
@@ -3150,7 +3148,10 @@ system Kosach
 	trade Medical 706
 	trade Metal 246
 	trade Plastic 315
-	attributes core wormhole
+	fleet "Small Syndicate" 1800
+	fleet "Large Syndicate" 4200
+	fleet "Small Core Pirates" 2200
+	fleet "Large Core Pirates" 1900
 	object
 		sprite star/k0
 		distance 7.7229299
@@ -3224,12 +3225,12 @@ system Laynofer
 system Wantip
 	pos -884.61112 -929.7778
 	government Uninhabited
+	habitable 1907.2
+	belt 1148
 	link Gaztao
 	link Laynofer
 	link Opfirit
 	asteroids "large metal" 1 1.56
-	habitable 1907.2
-	belt 1148
 	object
 		sprite star/a0
 		distance 151.67785
@@ -3280,11 +3281,11 @@ system Kilper
 
 planet Nul-Que
 	attributes "ruun capital" sakaar
-	shipyard "Sakaar Basics"
-	outfitter "Sakaar Ammo"
 	landscape land/mars3
 	description "This is a rather developed mining and industrial outpost, supplying Nul-Que with much of the material it needs for starship construction. It also acts as an ancillary shipyard, with the largest ships suspended in orbit of the moon to act as defense platforms against asteroid impacts."
 	spaceport "The spaceport is a number of platforms placed neatly along cardinal rows between enormous factory complexes. Even moreso than many Thi'Ruun planets, the spaceports are placed near enormous ammunition silos, allowing any ship to restock its ammunition reserves."
+	shipyard "Sakaar Basics"
+	outfitter "Sakaar Ammo"
 
 planet Nul-Poqor
 	attributes "ruun preserve" thi
@@ -3296,10 +3297,10 @@ planet Nul-Poqor
 
 planet Nul-Gnokila
 	attributes "ruun outpost" sakaar
-	shipyard "Sakaar Basics"
-	outfitter "Sakaar Ammo"
 	description "This is a rather developed mining and industrial outpost, supplying Nul-Que with much of the material it needs for starship construction. It also acts as an ancillary shipyard, with the largest ships suspended in orbit of the moon to act as defense platforms against asteroid impacts."
 	spaceport "The spaceport is a number of platforms placed neatly along cardinal rows between enormous factory complexes. Even moreso than many Thi'Ruun planets, the spaceports are placed near enormous ammunition silos, allowing any ship to restock its ammunition reserves."
+	shipyard "Sakaar Basics"
+	outfitter "Sakaar Ammo"
 
 planet Dara-Weqaal
 	attributes listener "ruun neglected" thi uninhabited
@@ -3314,10 +3315,10 @@ planet Maba-Racu
 
 planet Tarn-hol
 	attributes "ruun outpost" "ruun salvage"
-	outfitter "Kelaar Ammo"
-	outfitter "Sakaar Ammo"
 	description "Tarn-hol is a graveyard world, where small salvage vessels launch to collected the destroyed pieces of warring Sakaar'Ruun and Kelaar'Ruun ships and bring them to the many graveyards here."
 	spaceport "The spaceport fills you with a slightly morose feeling; it is a colossal structure fashioned from the heavily damaged hulls of long-dead Thi'Ruun ships. Though the Thi'Ruun do not care about mortality in the same way human beings do, you can't help but try to be as respectful as possible as you walk through the roughly-fashioned rooms and halls."
+	outfitter "Kelaar Ammo"
+	outfitter "Sakaar Ammo"
 
 planet Dira-Kelassa-Kruhl
 	attributes "cloud city" "thi urban"
@@ -3334,10 +3335,10 @@ planet Ott-Tarmi
 	security 0.7
 
 planet Praq-Laba
-	shipyard "Thi Basics"
 	landscape land/nasa9
 	description "Praq'Laba is a densely settled world the produces vast amounts of deuterium to fuel the energy and trasport needs of millions of Thi'Ruun. Densely populated and excessively developed, the main city on Praq'Laba streches miles both above and below the clouds. Though it is stated to have once kindled a majority of the Thi'Ruun's population, it now only houses a mere 900 billion individuals."
 	spaceport "The spaceport is built near the apex of the main city, long docking branches stretching to satellite structures. The entire assembly is held rigidly in place by repulsors similar to those used on ships, but of far greater power and more intricate arrangement, allowing the station to hold steady even as colossal Thi'Ruun transports come and go."
+	shipyard "Thi Basics"
 
 planet Praq-Laba-Palai
 	landscape land/badlands6
@@ -3361,20 +3362,20 @@ planet Laki-Illet
 	spaceport "The spaceport is quite sparse, as even the Thi'Ruun do not care for environments for this warm. Large, well-insulated land-bound vehicles can be seen shuttling work crews to and from the solar panels, presumably protecting the Thi'Ruun inside from the intense heat."
 
 planet Laki-Mara-Nalj
-	shipyard "kelaar basics"
-	outfitter "Kelaar Ammo"
-	outfitter "thi-ruun basics"
 	landscape land/station1
 	description "Though very small, Laki-Mara-Nalj's incredibly low gravity and stable orbit have made it a favourite shipyard of the Kelaar-Ruun; though manufacturing is done on more developed worlds, most fleets end up here, awaiting the day they will be sacrificed in the name of progress."
 	spaceport "The spaceport is less than impressive on the surface, but only because the thousands of ships ready to be sold here are high above the surface in low orbit, saving space here for new ships that need outfitting. It is rare that ships actually touch down; instead, shuttles are launched from the surface to commune with travelling merchants."
-
-planet Laki-Mara
 	shipyard "kelaar basics"
 	outfitter "Kelaar Ammo"
 	outfitter "thi-ruun basics"
+
+planet Laki-Mara
 	landscape land/nasa29
 	description "Laki-Mara is one of the Kelaar-Ruun's biggest production facilities. Sunk rather deep beneath the clouds, to the human eye it can seem like a ship with a full cargo hold goes in one side only for two ships with empty cargo holds to come out the other. Even massive battlecruisers are assembled in a manner of days here; a fact that is less shocking when you learn that this facility alone provides jobs for over 100 billion Thi'Ruun."
 	spaceport "The spaceport is bustling with activity; miners and traders bringing minerals and energy for constructing new trips. Every landing pad seems to be manned by thousands of Thi'Ruun, efficiently loading and unloaded thousands of tons of cargo as if it were nothing."
+	shipyard "kelaar basics"
+	outfitter "Kelaar Ammo"
+	outfitter "thi-ruun basics"
 
 planet Oggilia-Usaros
 	landscape land/desert6
@@ -3383,13 +3384,13 @@ planet Oggilia-Usaros
 
 planet Okkilia-Mayiro
 	attributes "ruun capital" "thi industrial"
+	landscape land/city4
+	description "Okkilia-Mayoro is an exceedingly populous world, thanks both in part to the natural resources of its host system and the fact that it is the capital system of Kalore-Illoca, which single-handedly employs trillions of Thi-Ruun drones on this system alone."
+	spaceport "The spaceport is built on top of a gargantuan tiered city that completely obscures the surface below. Artifical metal turf stretches for thousands of miles in any direction, and more impressively,all the rooftop space seems to be being used by Thi-Ruun trade ships."
 	shipyard "Kalore-Illoca Advanced"
 	shipyard "Thi Basics"
 	outfitter "thi-ruun basics"
 	outfitter "thi-ruun intermediate"
-	landscape land/city4
-	description "Okkilia-Mayoro is an exceedingly populous world, thanks both in part to the natural resources of its host system and the fact that it is the capital system of Kalore-Illoca, which single-handedly employs trillions of Thi-Ruun drones on this system alone."
-	spaceport "The spaceport is built on top of a gargantuan tiered city that completely obscures the surface below. Artifical metal turf stretches for thousands of miles in any direction, and more impressively,all the rooftop space seems to be being used by Thi-Ruun trade ships."
 
 planet Gnoki-Ilysa
 	landscape "land/asteroid landing 1"
@@ -3421,26 +3422,26 @@ system Yjkil-E-076
 
 planet Ural-Kellia
 	attributes "thi ancestral"
-	shipyard "Thi Ancestral"
-	outfitter "thi-ruun basics"
-	outfitter "thi-ruun intermediate"
 	description "Ural-Kellia is the headquarters of Kelassa Uratal, a legacy ship group that produces replica ships from back when the Kiel-Ruun were still alive and serving as the rulers over the Thi-Ruun. Many of the Thi-Ruun here were created before the Thi-Ruun home system was in a stable orbit of the Milky Way, and thus are of a different model than modern Thi-Ruun."
 	spaceport "The spaceport is almost entirely giant docks sunken partially into the clouds. The rounded hulls of the Kiel-Ruun ships in the shipyards look completely alien compared to the Thi-Ruun's sharp, angular ships, and yet the two ship types comingle just the same."
 	government Talia-Ruun
+	shipyard "Thi Ancestral"
+	outfitter "thi-ruun basics"
+	outfitter "thi-ruun intermediate"
 	security 0.9
 
 planet Yukur-Takayi-Mlayho
+	description "Yukur-Takayi-Mlayho is, on the surface, a relatively unimpressive mining outpost; just a few large holes in the surface of the planet. However, beneath the surface is a colossal network of hollowed out tunnels and chambers, forming a large mining and mineral processing complex that rivals some of huamnity's largest industrial centers."
+	spaceport "The spaceport is integrated into the tunnels, and bustles with activity, both from ships and wall-mounted transport vehicles. Business here is conducted very quickly; thousands of Thi-Ruun drones work on each ship like ants devouring an elephant."
 	shipyard "kelaar basics"
 	outfitter "Kelaar Ammo"
 	outfitter "thi-ruun basics"
-	description "Yukur-Takayi-Mlayho is, on the surface, a relatively unimpressive mining outpost; just a few large holes in the surface of the planet. However, beneath the surface is a colossal network of hollowed out tunnels and chambers, forming a large mining and mineral processing complex that rivals some of huamnity's largest industrial centers."
-	spaceport "The spaceport is integrated into the tunnels, and bustles with activity, both from ships and wall-mounted transport vehicles. Business here is conducted very quickly; thousands of Thi-Ruun drones work on each ship like ants devouring an elephant."
 
 planet Vrakli-Inghas
-	outfitter "thi-ruun basics"
 	landscape land/sea1
 	description "Vrakli-Inghas is a fairly warm ocean world; an environment that is thoroughly uncomfortable to the Thi-Ruun, but a crucial world nonetheless, due to the fact that the oceans here have extremely high levels of deuterium, making the planet an excellent source of fusion fuel for the Thi-Ruun's fusion reactor experiments, or fuel for their enormous starfleets."
 	spaceport "Unusually for a Thi-Ruun planetary settlement, the spaceport is enveloped in a thick shield that blocks much of the sea spray and humidity from the planet. Looking at the shields up close is like watching rain fall against a pane of (somewhat illuminated) glass."
+	outfitter "thi-ruun basics"
 
 planet Vrakli-Tagapol
 	landscape land/mountain1
@@ -3449,10 +3450,10 @@ planet Vrakli-Tagapol
 	spaceport "The spaceport here is vastly high above the surface; essentially built over a city that's elevated over the mountains. The structure holds solid no matter how many ships land upon it, with not so much as a creak. Thi-Ruun research teams can be seen coaxing animals into terrariums for study; a rare sight among a mostly dead region of space."
 
 planet Mlaqu-Aeros
-	outfitter "thi-ruun basics"
 	landscape land/nasa2
 	description "Mlaqu-Aeros is a particularly large gas giant; large enough that two separate cloud cities have emerged upon the planet. Each city is extremely well-developed, housing over a trillion Thi-Ruun each, making this world one of the most populous."
 	spaceport "The spaceport here is a third structure located between the two major cloud cities; miles of docks stretching across the surface of the planet, allowing ships to come and go as they please."
+	outfitter "thi-ruun basics"
 
 planet Zexel-Uirs
 	attributes "ruun outpost"
@@ -3471,52 +3472,52 @@ planet Vailor-Braul
 	spaceport "The spaceport here is stood on high stilts above the seas below, where large ships come to collect freshwater for usage elsewhere in Thi-Ruun space. The weather is temperate, but warm and humid, so the Thi-Ruun here wear waterproof suits to avoid the perils of corrosion."
 
 planet Cetruel-Onnia
+	description "Home to a colossal solar farm, Cetruel-Onnia not only exports large amounts of energy to the rest of Thi-Ruun space, but it also powers its own shipyard, which is a co-owned shipyard between Kalore-Illoca and Kelassa Uratal."
+	spaceport "The spaceport is lively by human standards, but quiet for a Thi-Ruun industrial world. Ships are produced, crewed, and launched by the day, feeding the endless toil of the Thi-Ruun."
 	shipyard "Kalore-Illoca Basics"
 	shipyard "Thi Ancestral"
 	shipyard "Thi Basics"
 	outfitter "Sakaar Ammo"
 	outfitter "thi-ruun basics"
 	outfitter "thi-ruun intermediate"
-	description "Home to a colossal solar farm, Cetruel-Onnia not only exports large amounts of energy to the rest of Thi-Ruun space, but it also powers its own shipyard, which is a co-owned shipyard between Kalore-Illoca and Kelassa Uratal."
-	spaceport "The spaceport is lively by human standards, but quiet for a Thi-Ruun industrial world. Ships are produced, crewed, and launched by the day, feeding the endless toil of the Thi-Ruun."
 
 planet Ceq-Rait-Vel
-	shipyard "Thi Basics"
 	landscape land/station5
 	description "Ceq-Rait is far too hot for the Thi-Ruun to permanently inhabit, but this small moon serves as a base of operations for geothermal energy harvesting on the main planet."
 	spaceport "Like many other Thi-Ruun energy farming worlds, the spaceport here is busy, thousands of workers toiling to ensure a steady stream of energy from its source out into the rest of Thi-Ruun space."
+	shipyard "Thi Basics"
 
 planet Uqel-Oaho
+	description "Uqel-Oaho is a fairly populous cloud city, with an even greater emphasis on spaceport and shipyard space than a typical Thi-Ruun cloud city. This is due to the naturally high mineral content of the asteroids in this system; mining fleets can be seen all around the shipyard, unloading vast quantities of ore and reloading similarly large amounts of mining ammunition."
+	spaceport "The spaceport bustles with life; large, bucket-like trolleys are filled with rock to be brought elsewhere in the spaceport. The layout is similar to a rural town, with the tracks the buckets move along acting like railway crossings."
 	shipyard "Sakaar Basics"
 	shipyard "Thi Basics"
 	outfitter "Sakaar Ammo"
 	outfitter "thi-ruun basics"
-	description "Uqel-Oaho is a fairly populous cloud city, with an even greater emphasis on spaceport and shipyard space than a typical Thi-Ruun cloud city. This is due to the naturally high mineral content of the asteroids in this system; mining fleets can be seen all around the shipyard, unloading vast quantities of ore and reloading similarly large amounts of mining ammunition."
-	spaceport "The spaceport bustles with life; large, bucket-like trolleys are filled with rock to be brought elsewhere in the spaceport. The layout is similar to a rural town, with the tracks the buckets move along acting like railway crossings."
 
 planet Phyllet-Weqaal
-	outfitter "thi-ruun basics"
 	description "Phyllet-Weqaal is one of the Thi-Ruun's listening post worlds. Here, radio telescopes stretching miles in diameter scour the cosmos for any sign of intelligent life or other odd galactic formations. Several things have been found in the millenia the station has been here, but overall, the Thi-Ruun have not been able to make any significant bounds towards any sort of alien life; barring yourself, of course."
 	spaceport "The spaceport is located on the opposite side of the planet compared to the spaceport, presumably so ship traffic doesn't disturb the radio scoping endeavors. Trading opportunities here are lacking compared to other Thi-Ruun planets, but are sufficient enough for a small merchant convoy to be seen entering or leaving the spaceport every couple of hours."
+	outfitter "thi-ruun basics"
 
 planet Vuelta-Onkh
 	description "This is a very quiet terrestrial planet; its geological activity is low, and it has little potential for life. Instead, the Thi-Ruun use it as a storage yard for old ships. Prototypes from aeons past can be seen, sheltered under high cliff faces. It's a gloomy, but appreciable sight; it lends a sort of meditative joy, such as that provided by a graveyard."
 	spaceport "The spaceport here is somewhat quiet, but perfectly pleasant and well-equipped to handle all incoming or outgoing Thi-Ruun traffic. There is also an extensive museum, showing off some of the oldest designs of ships from companies like Kalore-Illoca."
 
 planet Kelassa-Ottalia
-	shipyard "Thi Basics"
-	outfitter "thi-ruun basics"
 	description "Kelassa-Ottalia is a dwarf planet located within belt of its parent star. Though it supports a robus population of close to a trillion Thi-Ruun, the colony is dependent on importing power and processed goods from other regions of Thi-Ruun space, and thus it is considered a relative failure compared to more self-sufficient settlements."
 	spaceport "The spaceport here is embedded in a cluster of large asteroids in low, but stable orbit. Cargo shuttles can be seen by the thousands, moving crucial resources between the planetary and asteroidal settlements."
+	shipyard "Thi Basics"
+	outfitter "thi-ruun basics"
 
 planet Vuyal-Urr-Mayha
+	description `This rather warm desert world sports a surprisingly breathable atmosphere by human standards; not comfortable due to how dry it is, but safe to breathe. To the Thi-Ruun, however, it is home to a group of Thi-Ruun known as Uritek-Reqa, or the "Church of Succession". Their ships are based off of the ancient designs of Thi-Ruun ships, building on the original fighter designs to create powerful warships for use in Thi-Ruun defense fleets. Their usage of ancient designs, however, means they're somewhat outcasted by other members of Thi-Ruun society.`
+	spaceport "The spaceport is built atop an enormous factory complex, sandwhiched between production lines on the bottom and a thick blanket of solar panels on top, meaning ships essentially have to fly in one way and out the other, forming neat lanes of traffic. A substantial amount of the landing floor is formed from metal grates, allowing you to see the production lines in action."
 	shipyard "Thi Basics"
 	shipyard "Uritek Basics"
 	outfitter "thi-ruun advanced"
 	outfitter "thi-ruun basics"
 	outfitter "thi-ruun intermediate"
-	description `This rather warm desert world sports a surprisingly breathable atmosphere by human standards; not comfortable due to how dry it is, but safe to breathe. To the Thi-Ruun, however, it is home to a group of Thi-Ruun known as Uritek-Reqa, or the "Church of Succession". Their ships are based off of the ancient designs of Thi-Ruun ships, building on the original fighter designs to create powerful warships for use in Thi-Ruun defense fleets. Their usage of ancient designs, however, means they're somewhat outcasted by other members of Thi-Ruun society.`
-	spaceport "The spaceport is built atop an enormous factory complex, sandwhiched between production lines on the bottom and a thick blanket of solar panels on top, meaning ships essentially have to fly in one way and out the other, forming neat lanes of traffic. A substantial amount of the landing floor is formed from metal grates, allowing you to see the production lines in action."
 
 planet Vuyal-Urr-Clutre
 	landscape land/canyon1
@@ -3524,13 +3525,13 @@ planet Vuyal-Urr-Clutre
 	spaceport "The spaceport is settled on a high plateau, where gravity is particularly weak. Ships touch down, quickly receive cargo, and leave in the time it would take ships on a more usual world to simply position themselves for atmospheric entry."
 
 planet Xevail-Vrataic
+	landscape land/nasa2
+	description "Xevail-Vrataic is one of the few planets that has, by human standards, gone through some major development in recent times. Not fifty years ago, when the east of Thi-Ruun space was invaded by the Alphas, the planet's cloud city was rapidly overhauled into a sprawling military complex, fitted with ammunition production and outfitting facilities for Kelaar-Ruun and Sakaar-Ruun ships, as well as more standard Thi-Ruun warfleets."
+	spaceport "The spaceport was overhauled during the invasion, and it shows, from the fact that the energy shields are about as thick as you are tall to the fact that rearming facilities for Kelaar-Ruun and Sakaar-Ruun ships still lie in low volume production mode, ready to be reactivated at a moment's notice."
 	shipyard "Thi Basics"
 	outfitter "Kelaar Ammo"
 	outfitter "Sakaar Ammo"
 	outfitter "thi-ruun basics"
-	landscape land/nasa2
-	description "Xevail-Vrataic is one of the few planets that has, by human standards, gone through some major development in recent times. Not fifty years ago, when the east of Thi-Ruun space was invaded by the Alphas, the planet's cloud city was rapidly overhauled into a sprawling military complex, fitted with ammunition production and outfitting facilities for Kelaar-Ruun and Sakaar-Ruun ships, as well as more standard Thi-Ruun warfleets."
-	spaceport "The spaceport was overhauled during the invasion, and it shows, from the fact that the energy shields are about as thick as you are tall to the fact that rearming facilities for Kelaar-Ruun and Sakaar-Ruun ships still lie in low volume production mode, ready to be reactivated at a moment's notice."
 
 planet Zelfka-Bliorok
 	landscape land/forest3
@@ -3543,34 +3544,34 @@ planet Civrue-Allec
 	spaceport "The spaceport is lively, but mediocre by Thi-Ruun standards. Large highways bring vast amounts of material to and from landed ships, ensuring the industrial machine of Thi-Ruun space is never left wanting for metal."
 
 planet Trullet-Vakiil
-	outfitter "Sakaar Ammo"
 	landscape land/station4
 	description "Despite the fact that it houses the bulk of the Sakaar-Ruun's non-shipboard population, Trullet-Vakiil is still considered an outpost due to its rather small outfitting facility and lack of a dedicated shipyard. As such, this world is mostly used as a think tank and factory for new Thi-Ruun drones to replace those lost in the Sakaar- and Kelaar-Ruun's endless war."
 	spaceport "The spaceport here mostly services transports picking up new Sakaar-Ruun drones to bring them to other worlds for ship assignment. The influx of Thi-Ruun here means that any cargo is moved particularly quickly, as Drones moving in and out of ships carry vast quantities of cargo with them."
+	outfitter "Sakaar Ammo"
 
 planet Xekel-Oatoh
+	landscape land/nasa28
+	description "The faint warmth of its parent planet makes Xekel-Oatoh a reasonably habitable, if somewhat unimpressive world. However, the vast riches of valuable metals within the planet's crust means it's one of the largest Sakaar-Ruun shipyards, providing an exemplary boost to the speed of the Sakaar-Ruun war machine."
+	spaceport "The spaceport is busy, with thousands of Thi-Ruun arriving every few hours to pour into the new ships here, ready to join the war effort. The energy here is surprisingly jubilant, considering the Thi-Ruun are all robots."
 	shipyard "Sakaar Basics"
 	outfitter "Sakaar Ammo"
 	outfitter "thi-ruun advanced"
 	outfitter "thi-ruun basics"
 	outfitter "thi-ruun intermediate"
-	landscape land/nasa28
-	description "The faint warmth of its parent planet makes Xekel-Oatoh a reasonably habitable, if somewhat unimpressive world. However, the vast riches of valuable metals within the planet's crust means it's one of the largest Sakaar-Ruun shipyards, providing an exemplary boost to the speed of the Sakaar-Ruun war machine."
-	spaceport "The spaceport is busy, with thousands of Thi-Ruun arriving every few hours to pour into the new ships here, ready to join the war effort. The energy here is surprisingly jubilant, considering the Thi-Ruun are all robots."
 
 planet Wuqetos-Vilra
+	description "One of the largest population centers in the Thi-Ruun's sparring grounds, housing close to a trillion Thi-Ruun, most of whom belong to the Kelaar-Ruun war effort. In addition to being a large cloud city, Wuqetos-Vilra is also home to a large fleet of Deuterium-harvesting ships, providing not only both sides of the war effort, but also the civilian population of Thi-Ruun with hyperdrive fuel to drive the economy."
+	spaceport "The spaceport here is divided into two major sections; transport and fuel processing. Because of this dual-purpose nature, the spaceport seems almost stretched-thin at times, with ships occasionally having to wait for an open spot in the docks. Thi-Ruun engineers can be seen hard at work building a new expansion to the docks, so this likely won't be a problem for long."
 	shipyard "Thi Basics"
 	shipyard "kelaar basics"
 	outfitter "Kelaar Ammo"
 	outfitter "thi-ruun basics"
 	outfitter "thi-ruun intermediate"
-	description "One of the largest population centers in the Thi-Ruun's sparring grounds, housing close to a trillion Thi-Ruun, most of whom belong to the Kelaar-Ruun war effort. In addition to being a large cloud city, Wuqetos-Vilra is also home to a large fleet of Deuterium-harvesting ships, providing not only both sides of the war effort, but also the civilian population of Thi-Ruun with hyperdrive fuel to drive the economy."
-	spaceport "The spaceport here is divided into two major sections; transport and fuel processing. Because of this dual-purpose nature, the spaceport seems almost stretched-thin at times, with ships occasionally having to wait for an open spot in the docks. Thi-Ruun engineers can be seen hard at work building a new expansion to the docks, so this likely won't be a problem for long."
 
 planet Wuqetos-Vilra-Gnoyto
-	outfitter "Kelaar Ammo"
-	outfitter "thi-ruun basics"
 	landscape land/mountain8
 	description "This large moon is a mining outpost, providing a substantial portion of the minerals used in Kelaar-Ruun ship production. Because it is a mining outpost, there is little in the way of industry here."
 	spaceport "The spaceport is fairly small here, though still quite large by human standards. Ships of all kinds stop here to bring metals to other parts of Thi-Ruun space."
+	outfitter "Kelaar Ammo"
+	outfitter "thi-ruun basics"
 

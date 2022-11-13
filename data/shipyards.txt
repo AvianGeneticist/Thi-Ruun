@@ -44,3 +44,6 @@ shipyard "Uritek Basics"
 shipyard Pollo-Talia
 	Polaq-Pollo
 
+shipyard "Laxet Basics"
+	Laxet-Vermue
+

@@ -165,6 +165,11 @@ fleet "Small Thi Traders"
 		Tuell-Kelit 3
 		Uyiti-Kalore
 		Pollo-Nelu
+	variant 2
+		Laxet-Vermue
+		Uyiti-Kalore
+		Tuell-Kelit 7
+	
 
 fleet "Large Thi Traders"
 	government Thi-Ruun
@@ -252,6 +257,10 @@ fleet "Thi Patrol"
 		Val-Yurai 2
 		"Uratal Kelai" 12
 		Tuell-Kelit 6
+	variant 2
+		Laxet-Vermue 2
+		"Uratal Kelai" 2
+		Tuell-Kelit 14
 
 fleet "Thi Warfleet"
 	government Thi-Ruun
@@ -299,6 +308,10 @@ fleet "Thi Warfleet"
 		"Uratal Kelai" 8
 	variant 2
 		Sarula-Mikai-Kalore 3
+	variant 2
+		Laxet-Vermue 4
+		"Uratal Kelai" 4
+		Tuell-Kelit 28
 
 fleet "Large Thi Transport"
 	government Thi-Ruun
